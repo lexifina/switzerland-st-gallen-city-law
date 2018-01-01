@@ -1,0 +1,6 @@
+# Art. 47a Kürzung von Ruhegehältern
+1 Die Ruhegehaltszahlungen werden gekürzt, wenn sie zusammen mit den nach Abs. 2 anrechenbaren Einkünften 90 % des letzten Gesamtverdienstes übersteigen. Als Gesamtverdienst gelten der Jahreslohn zuzüglich Sozialzulagen und regelmässige Nebenbezüge.
+2 Anrechenbare Einkünfte im Sinne von Abs. 1 sind Leistungen gleicher Art und Zweckbestimmung, namentlich:
+a) Leistungen der Sozial- oder anderer Versicherungen;
+b) Leistungen anderer in- und ausländischer Vorsorgeeinrichtungen und Freizügigkeitseinrichtungen;
+c) allfällige tatsächlich erzielte oder zumutbarerweise erzielbare Einkünfte aus Erwerbstätigkeit.
