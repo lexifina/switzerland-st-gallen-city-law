@@ -1,0 +1,2 @@
+# Art. 73a dd) Beratung des Berichts zu einem Postulat bei gleichzeitiger Sachvorlage
+1 Unterbreitet der Stadtrat den Bericht zu einem Postulat im Rahmen einer Sachvorlage, so erfolgt die Beratung nach den Bestimmungen über Sachvorlagen (Art. 48 – 54). Mit dem Beschluss auf Nichteintreten auf die Vorlage (Art. 50) oder mit der Gesamtabstimmung (Art. 54) wird die Abschreibung des Postulats ohne weitere Abstimmung festgestellt.
