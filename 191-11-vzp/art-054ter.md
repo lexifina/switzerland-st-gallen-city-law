@@ -1,0 +1,3 @@
+# Art. 54ter Smartphone, Telefongespräche
+1 Über die Beschaffung von Mobiltelefonen/Smartphones entscheidet die Dienststelle unter Berücksichtigung der geschäftlichen Notwendigkeit und der geforderten Erreichbarkeit.
+2 Unabhängig davon, ob es sich um ein Geschäfts- oder privat beschafftes Mobiltelefon/Smartphone handelt, werden nur die Kosten geschäftlich geführter Telefongespräche, SMS/MMS-Services und Datenbezüge vergütet. Die Dienststellen rechnen privat genutzte Dienste bei Geschäfts-Mobiltelefonen/Smartphones in geeigneter Form über den Lohn ab. Bei hohen Spesen mit privaten Mobiltelefonen/Smartphones kann die Dienststelle ein CMN-Abonnement anordnen.
