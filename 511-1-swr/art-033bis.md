@@ -1,0 +1,6 @@
+# Art. 33bis Solar Community
+1 Die Stadtwerke nehmen geeignete Fotovoltaikanlagen, die sich im Eigentum der Stadt St.Gallen befinden, in eine Liste von Solar Community - Anlagen auf. Jede Solar Community - Anlage wird in Einheiten aufgeteilt.
+2 Wer in einem Bezugsverhältnis der Elektrizitätsversorgung steht, kann sich gegen eine einmalige Gebühr eine oder mehrere Einheiten von Solar Community - Anlagen zuordnen lassen. Die Zuordnung bezieht sich jeweils auf einen bestimmten Stromzähler. Die gleiche Einheit kann nicht mehreren Stromzählern zugeordnet werden. Der Stadtrat kann eine Höchstzahl von Einheiten festlegen, die einem Stromzähler zugeordnet werden können.
+3 Für jede zugeordnete Einheit wird die Bezugsgebühr für den zugeordneten Stromzähler reduziert; hierfür wird eine vom Stadtrat festzusetzende Menge Solarstrom vom Verbrauch des Stromzählers abgezogen.
+4 Die Zuordnung endet ordentlich, wenn die zugeordnete Einheit ein Alter von 20 Jahren erreicht.
+5 Die Zuordnung endet vorzeitig, wenn sie mit einer Frist von einem Monat auf das Ende eines Kalenderjahres gekündigt wird, das Bezugsverhältnis für die Elektrizitätsversorgung endet oder die zugeordnete Einheit nicht mehr existiert. Die zu viel bezahlte Gebühr wird pro rata temporis der Schlussrechnung gutgeschrieben.
