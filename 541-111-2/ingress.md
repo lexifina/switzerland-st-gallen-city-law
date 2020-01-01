@@ -1,3 +1,3 @@
 # Gebührentarif für die Entsorgung von Siedlungsabfällen
-Vom 22.11.2016
-Der Stadtrat erlässt gestützt auf Art. 22 Abfallreglement vom 17. Juni 2008 als Gebührentarif:
+Vom 11.10.2019
+Der Stadtrat erlässt gestützt auf Art. 24 des Abfallreglements vom 17. Juni 2008 als Gebührentarif:
