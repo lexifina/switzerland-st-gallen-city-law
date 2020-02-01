@@ -1,3 +1,4 @@
-# Reglement zum Vollzug des Abfallreglements
-Vom 02.09.2008
-Der Stadtrat erlässt gestützt auf Art. 21 des Abfallreglements vom 17. Juni 2008 als Reglement:
+# Vollzugsreglement zum Abfallreglement
+(AbfV)
+Vom 21.01.2020
+Der Stadtrat erlässt gestützt auf Art. 24 des Abfallreglements vom 19. November 2019 als Reglement:
