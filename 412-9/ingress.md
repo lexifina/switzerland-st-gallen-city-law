@@ -1,3 +1,3 @@
 # Hundereglement
-Vom 29.04.1986
-Der Stadtrat erlässt gestützt auf die Bestimmungen des Hundegesetztes vom 5. Dezember 1985 folgendes Reglement:
+Vom 20.10.2020
+Der Stadtrat erlässt in Ausführung des kantonalen Hundegesetzes vom 13. August 2019 und der kantonalen Hundeverordnung vom 3. Dezember 2019 als Reglement:
