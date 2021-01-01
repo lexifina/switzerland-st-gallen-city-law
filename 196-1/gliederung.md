@@ -1,13 +1,15 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Finanzierung
-## 3 Versicherungsleistungen der Kasse
-### 3.1 Altersleistungen
-### 3.2 Hinterlassenenleistungen
-### 3.3 Invalidenleistungen
-### 3.4 Austrittsleistungen
-### 3.5 Freiwillige Leistungen
-## 4 Gemeinsame Bestimmungen für die Leistungen
-## 5 Besondere Bestimmungen für die Mitglieder des Stadtrats
-## 6 Anschluss anderer Institutionen
-## 7 Organisation und Verwaltung
-## 8 Übergangs- und Schlussbestimmungen
+## 2 Lohnfortzahlung
+### 2.1 Bemessung
+#### 2.1.1 Mitglieder des Stadtrats
+#### 2.1.2 Durch das Stadtparlament gewählte Angestellte
+### 2.2 Pensionskasse
+## 3 Organisation und Verwaltung
+## 4 Übergangsbestimmungen
+### 4.1 Aktive Begünstigte
+#### 4.1.1 Angestellte und Mitglieder des Stadtrats
+##### 4.1.1.1 Durch das Stadtparlament gewählte Angestellte
+##### 4.1.1.2 Aktive (Jg. 1961 und älter) und ehemalige Mitglieder des Stadtrats
+#### 4.1.2 Aktive Mitglieder des Stadtrats (Jg. 1962 und jünger)
+### 4.2 Gemeinsame Bestimmungen
+## 5. Schlussbestimmungen
