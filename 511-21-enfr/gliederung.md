@@ -6,7 +6,7 @@
 ### 2.4 Erdsonden zu Heizzwecken
 ### 2.5 Bau von Wärmeverteilnetzen
 ### 2.6 Anschluss an Wärmeverteilnetze
-### 2.7 Ersatz von Elektrowiderstandsheizungen
+### 2.7 Ersatz von Heizungen
 ### 2.8 Wärmerückgewinnung
 ## 3 Förderbereich Elektrizität
 ### 3.1 Fotovoltaikanlagen
