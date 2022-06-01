@@ -1,3 +1,3 @@
-# Reglement für die Heime und die sozialen Einrichtungen der Stadt St.Gallen
+# Reglement für das Heim und die sozialen Einrichtungen der Stadt St.Gallen
 Vom 17.03.1998
-Der Grosse Gemeinderat der Stadt St.Gallen erlässt gestützt auf Art. 99 Abs. 1 Bst. b des Gemeindegesetzes sowie auf Art. 33 Ziff. 2 der Gemeindeordnung als Reglement:
+Das Stadtparlament erlässt gestützt auf Art. 61 Abs. 1 Bst. f des Gemeindegesetzes vom 17. Februar 2009, Art. 28 und 39 des Sozialhilfegesetzes vom 27. September 1998 sowie Art. 32 Abs. 1 Bst. b der Gemeindeordnung vom 8. Februar 2004 als Reglement:
