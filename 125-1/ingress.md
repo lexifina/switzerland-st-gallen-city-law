@@ -1,3 +1,3 @@
 # Reglement über das Vertragsmanagement
-Vom 02.03.2010
-Der Stadtrat erlässt gestützt auf die Art. 89 f. des Gemeindegesetzes vom 17. Februar 2009 als Reglement:
+Vom 23.08.2022
+Der Stadtrat erlässt gestützt auf Art. 18 Abs. 3 des Geschäftsreglements des Stadtrats vom 2. Dezember 2004 als Reglement:
