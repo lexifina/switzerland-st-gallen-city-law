@@ -15,7 +15,7 @@
 ## 10 Leistungsprämien (zu Art. 45)
 ## 11 Naturalleistungen (zu Art. 46)
 ## 12 Treueprämie (zu Art. 47)
-## 13 Wohnsitzzulage (zu Art. 48)
+## 13 …
 ## 14 Funktionszulagen (zu Art. 49)
 ## 15 Dienst- und Schutzkleider (zu Art. 50)
 ## 16 Spesenregelungen (zu Art. 51)
