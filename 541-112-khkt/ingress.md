@@ -1,4 +1,4 @@
 # Gebührentarif für das Kehrichtheizkraftwerk
 (KHKT)
-Vom 03.11.2020
-Der Stadtrat erlässt gestützt auf Art. 22 des Abfallreglements vom 17. Juni 2008 als Gebührentarif:
+Vom 13.12.2022
+Der Stadtrat erlässt gestützt auf Art. 24 des Abfallreglements vom 19. November 2019 als Gebührentarif:
