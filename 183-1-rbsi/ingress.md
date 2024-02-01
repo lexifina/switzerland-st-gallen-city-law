@@ -1,3 +1,4 @@
 # Reglement über den Betrieb und die Sicherheit der städtischen Informatik
-Vom 02.07.2013
-Der Stadtrat erlässt als Reglement:
+(RBSI)
+Vom 09.01.2024
+Der Stadtrat erlässt gestützt auf Art. 40 der Gemeindeordnung vom 8. Februar 2004 als Reglement:
