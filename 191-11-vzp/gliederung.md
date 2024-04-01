@@ -5,8 +5,8 @@
 ## 5 Arbeitszeit (zu Art. 35)
 ### 5.1 Einteilung der Arbeitszeit
 ### 5.2 Gleitende Arbeitszeit
-### 5.3 Arbeit von zu Hause aus (zu Art. 35 Bst. f.)
-### 5.4 Flexible Arbeitszeiten
+### 5.3 Mobile Arbeitsformen (zu Art. 35 Bst. f.)
+### 5.4 Flexible Arbeitszeitmodelle
 ### 5.5 Zeitzuschläge
 ## 6 Lohnklassen (zu Art. 39)
 ## 7 Ausrichtung des Jahreslohnes (zu Art. 40)
