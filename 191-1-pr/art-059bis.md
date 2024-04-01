@@ -1,0 +1,3 @@
+# Art. 59bis Lohnfortzahlung bei Betreuungsurlaub
+1 Die Lohnfortzahlung bei Betreuung von minderjährigen Kindern, die wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt sind, dauert höchstens 14 Wochen, sofern die Voraussetzungen für die Betreuungsentschädigung nach Bundesgesetzgebung erfüllt sind. Sie bemisst sich bei Anstellungen im Monatslohn nach dem Lohn zum Zeitpunkt des Urlaubsbezugs, bei unregelmässiger Entlöhnung nach dem Durchschnittslohn der letzten zwölf Monate.
+2 Im Übrigen werden die Bestimmungen über die Betreuungsentschädigung in der Bundesgesetzgebung über die Erwerbsersatzordnung sachgemäss angewendet. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an die Stadt über.
