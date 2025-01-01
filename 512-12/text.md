@@ -1,0 +1,17 @@
+Gebührentarif des Glasfasernetzes
+(SWGT)
+Art. 1 Anschlussleitung
+1 Die Gebühr für die Erstellung einer Anschlussleitung beträgt (exkl. MWST):
+a) bei 1-4 Nutzungseinheiten CHF 1'424.60
+b) bei 5-10 Nutzungseinheiten CHF 1'683.65
+c) bei 11-16 Nutzungseinheiten CHF 1'924.15
+d) bei 17-22 Nutzungseinheiten CHF 2'053.65
+e) bei 23-70 Nutzungseinheiten CHF 3'154.50
+f) bei mehr als 70 Nutzungseinheiten CHF 4'357.10
+Art. 2 Hausinstallation
+1 Die Gebühr für die Erstellung von Hausinstallationen wird pauschaliert.
+2 Sie beträgt pro Nutzungseinheit (exkl. MWST):
+a) bei 1-4 Nutzungseinheiten CHF 952.80
+b) bei 5-10 Nutzungseinheiten CHF 804.80
+c) bei mehr als 10 Nutzungseinheiten CHF 703.05
+2024-043
