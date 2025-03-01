@@ -1,0 +1,3 @@
+# Art. 48c Betriebsbeiträge
+1 An juristische Personen mit einer Betriebsstätte in der Stadt St.Gallen können für Angebote, die zur Erreichung mindestens eines der Ziele des Bereichs Konsum und Ressourcen des Energiekonzepts beitragen, mehrjährige Betriebsbeiträge ausgerichtet werden. Diese dienen der Deckung wiederkehrender Kosten im Zusammenhang mit Personal, Infrastruktur und anderem Betriebsaufwand, die nicht durch Einnahmen oder andere Förderbeiträge abgegolten werden können.
+2 Ein Betriebsbeitrag beträgt insgesamt höchstens CHF 100'000. Er wird über eine Dauer von zwei bis vier Jahren ausgerichtet. Nach Ablauf der Beitragsdauer kann ein weiterer Betriebsbeitrag ausgerichtet werden, wenn die Voraussetzungen gemäss Abs. 1 erfüllt sind.
