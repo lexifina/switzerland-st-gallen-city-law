@@ -1,4 +1,5 @@
-## 1 Archivgut
-## 2 Ablieferung und Vernichtung
-## 3 Benützungsvorschriften
-## 4 Dienstleistungen und Öffentlichkeitsarbeit
+## 1 Allgemeine Bestimmungen
+## 2 Überlieferungsbildung und Sicherung
+## 3 Zugang und Gebühren
+## 4 Vermittlung
+## 5 Schlussbestimmungen
