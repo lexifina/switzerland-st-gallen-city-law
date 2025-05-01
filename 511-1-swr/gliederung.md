@@ -1,4 +1,4 @@
-## 1 AllgemeinerTeil
+## 1 Allgemeiner Teil
 ### 1.1 Allgemeine Bestimmungen
 ### 1.2 Rechtsverhältnisse
 ### 1.3 Infrastruktur
