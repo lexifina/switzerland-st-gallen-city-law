@@ -1,6 +1,8 @@
-## 1 Begriff und Arten von Taxi
-## 2 Betriebsbewilligungen für Taxi
-## 3 Benützung des öffentlichen Grundes
-## 4 Fahrbewilligungen
-## 5 Strafbestimmungen
-## 6 Schlussbestimmungen
+## 1 Geltungsbereich und Begriffsdefinitionen
+## 2 Bewilligung
+## 3 Verhaltenspflichten und Verbote
+## 4 Öffentliche Taxistandplätze
+## 5 Überwachungsinstrumente
+## 6 Vollzug
+## 7 Sanktionen
+## 8 Übergangs- und Schlussbestimmungen
