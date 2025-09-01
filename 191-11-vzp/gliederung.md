@@ -1,7 +1,7 @@
 ## 1 Allgemeines
 ## 2 Wohnkreis (zu Art. 27)
 ## 3 Ausübung öffentlicher Ämter (zu Art. 28)
-## 4 Ausübung von Nebenbeschäftigungen (zu Art. 29)
+## 4 Ausübung von Nebenbeschäftigungen und finanzielle Beteiligungen (zu Art. 29)
 ## 5 Arbeitszeit (zu Art. 35)
 ### 5.1 Einteilung der Arbeitszeit
 ### 5.2 Gleitende Arbeitszeit
