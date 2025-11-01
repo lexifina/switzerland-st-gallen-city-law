@@ -1,0 +1,5 @@
+# Art. 14ter Zirkulationsbeschluss
+1 Die Kommission kann auf Antrag der Kommissionspräsidentin oder des Kommissionspräsidenten einen Zirkulationsbeschluss fassen, wenn kumulativ:
+a) eine Sitzung nicht mehr rechtzeitig durchgeführt werden kann;
+b) nebensächliche Punkte zu bereinigen sind.
+2 Der Antrag muss den Mitgliedern zur Stellungnahme innert angemessener Frist zugestellt werden und gilt als angenommen, wenn kein Mitglied Einsprache erhebt.
