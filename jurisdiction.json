@@ -1,0 +1,11 @@
+{
+  "path": "ch-sg-st-gallen",
+  "code": "CH-SG-ST-GALLEN",
+  "name": "St. Gallen (city)",
+  "level": "municipality",
+  "parent": "ch-sg",
+  "repo": "https://github.com/lexifina/switzerland-st-gallen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (101 acts, 196 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

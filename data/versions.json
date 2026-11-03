@@ -1,0 +1,1989 @@
+{
+ "country": "CH-SG-ST-GALLEN",
+ "acts": [
+  {
+   "slug": "111-1",
+   "short": "SRS 111.1",
+   "title": "Gemeindeordnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/111.1",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 73,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/214",
+     "sha256": "2e2084480f3ff6eb1b71777801b2226feec97353396e109464c45497e6700368"
+    },
+    {
+     "from": "2019-09-01",
+     "units": 73,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/268",
+     "sha256": "e7c9c8fa104d6254f544b1893d91a683415fe9a7339881cf66202abc179137cf"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 74,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/471",
+     "sha256": "41d45a27bd7648e3944d35db1769a002ef34c76bdecde5aa220b1d33b261e731"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 72,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1",
+     "sha256": "d8b6456eab288a5f80dfe0334c8db447b330af82a832de0c18ed2979af632f65"
+    }
+   ]
+  },
+  {
+   "slug": "113-1",
+   "short": "SRS 113.1",
+   "title": "Reglement über das Stadtwappen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/113.1",
+   "versions": [
+    {
+     "from": "1992-12-31",
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/113.1",
+     "sha256": "56b20999116eeed10dcec6fff87625e5db4d00eb6a589538cec804e6f462d41c"
+    }
+   ]
+  },
+  {
+   "slug": "113-2",
+   "short": "SRS 113.2",
+   "title": "Reglement über die Stadtfarben",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/113.2",
+   "versions": [
+    {
+     "from": "1992-12-31",
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/113.2",
+     "sha256": "40f6c6dfa346847260f3740464845e79856bfb260584ba7cf13ee6db6bc9919d"
+    }
+   ]
+  },
+  {
+   "slug": "121-1-publikationsreglement",
+   "short": "Publikationsreglement",
+   "title": "Reglement über die Amtlichen Bekanntmachungen und die Rechtssammlung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/121.1",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/121.1/versions/76",
+     "sha256": "4dcefee0922ef3f27f5c5da066dd7e5e8e60e68e0d0cd3d7d175b121a68dc93f"
+    },
+    {
+     "from": "2019-06-01",
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/121.1",
+     "sha256": "eb43180fa07de28ee9340fe27981c5a6cf98026cafb0186e687686bb595fbcc4"
+    }
+   ]
+  },
+  {
+   "slug": "123-1",
+   "short": "SRS 123.1",
+   "title": "Reglement über die Informationsverbreitung und den Informationszugang (Kommunikationsreglement, KomR)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/123.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/123.1/versions/473",
+     "sha256": "3a585fb083f50248c08888b4549c6412eb33388692528aaf1033c2a5f155d4c9"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/123.1",
+     "sha256": "3bb6c698613e3172352e18ec126994d78bcf816c7cb343825671f68d45abd182"
+    }
+   ]
+  },
+  {
+   "slug": "125-1",
+   "short": "SRS 125.1",
+   "title": "Reglement über das Vertragsmanagement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/125.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/125.1/versions/474",
+     "sha256": "5d304cda7faed7ceb90b40c0c3bc8e378de5098843f1548b5ca70a0e2fc5c409"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/125.1",
+     "sha256": "71c0e2f04915e0c76932244284aa7f08581c9f07e737c6e3b39678d585d1c2a0"
+    }
+   ]
+  },
+  {
+   "slug": "127-1",
+   "short": "SRS 127.1",
+   "title": "Reglement über das Stadtarchiv St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/127.1",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.1/versions/475",
+     "sha256": "0a1bd68386c4d1cddc5b6d1a44076004540840a8a98546946a752169322538a8"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.1",
+     "sha256": "ab40f5204cb94613d677d2bfdd89725823924101a36ebbb65416dfc1ea76e4d9"
+    }
+   ]
+  },
+  {
+   "slug": "127-11",
+   "short": "SRS 127.11",
+   "title": "Benutzungsordnung für das Stadtarchiv St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/127.11",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.11",
+     "sha256": "a6b8ec1d1b44c16fb42ecf0d114510f356aa2465cf11f3d483af266d6b048d1d"
+    }
+   ]
+  },
+  {
+   "slug": "127-12-gebuhrentarif-stadtarchiv",
+   "short": "Gebührentarif Stadtarchiv",
+   "title": "Gebührentarif für Dienstleistungen des Stadtarchivs St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/127.12",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.12",
+     "sha256": "1661e1447c1e6b72d3fd6077d1a8233d41262efecf4d151ff702d9f571941d24"
+    }
+   ]
+  },
+  {
+   "slug": "131-1",
+   "short": "SRS 131.1",
+   "title": "Reglement über die Urnenabstimmungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/131.1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.1/versions/476",
+     "sha256": "ec7806952c477f37c66b9a82ee778002813b83453d2d1aaceff22de4921069df"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.1",
+     "sha256": "4c130a2452d1f3cd0d5c444b52799065f436d4e5ea676c6f1f859dc8da99483b"
+    }
+   ]
+  },
+  {
+   "slug": "131-2",
+   "short": "SRS 131.2",
+   "title": "Reglement über die Organisation und Geschäftsführung des Stimmbüros",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/131.2",
+   "versions": [
+    {
+     "from": "2007-09-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.2",
+     "sha256": "53963b4ba32f9ed446481f8a23459d96ad2a0cbf6f59874004c9a906dbd87536"
+    }
+   ]
+  },
+  {
+   "slug": "131-3-transparenz-reglement-tr",
+   "short": "Transparenz-Reglement; TR",
+   "title": "Reglement über die Offenlegung der Finanzierung von politischen Parteien und Kampagnen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/131.3",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.3",
+     "sha256": "660d1e7d3592457eb620f0880f6742e10f1afa700c2ab3ab90c28f4e35d305bb"
+    }
+   ]
+  },
+  {
+   "slug": "131-31-transparenz-vollzugsreglement-vtr",
+   "short": "Transparenz-Vollzugsreglement; VTR",
+   "title": "Vollzugsreglement zum Reglement über die Offenlegung der Finanzierung von politischen Parteien und Kampagnen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/131.31",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.31",
+     "sha256": "c98679eeb9f6c3e6676947ea30180a71dc14d35efc2438bbeb42394938fe26ca"
+    }
+   ]
+  },
+  {
+   "slug": "141-1",
+   "short": "SRS 141.1",
+   "title": "Partizipationsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/141.1",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/141.1/versions/336",
+     "sha256": "1d90caf975b5d0c7e27d7fef88f2aaf0665c4e3a71876bfdd631c3f42ffbfac0"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/141.1",
+     "sha256": "027e3a4671217d4b7e2191333c4c751050d57d7e06726d2b82f2ba6eec12a092"
+    }
+   ]
+  },
+  {
+   "slug": "151-1",
+   "short": "SRS 151.1",
+   "title": "Geschäftsreglement des Stadtparlaments",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/151.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 115,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1/versions/205",
+     "sha256": "2370395c67fee547b8f7ffa653f2f8d88669e1b502056bfff68f1c58d48f1212"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 115,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1/versions/480",
+     "sha256": "618414ffcde1e492705e170cef207ba7eb85b97b8cde0094f198a8fffc8041e2"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 118,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1",
+     "sha256": "f20bbb385350436e2b02aec5cee897fb01ecfbd7764e40fad826a182acb2a0be"
+    }
+   ]
+  },
+  {
+   "slug": "151-11",
+   "short": "SRS 151.11",
+   "title": "Reglement über die Entschädigung der Mitglieder des Stadtparlaments",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/151.11",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.11/versions/481",
+     "sha256": "3fc2b6545b025d987a9d3077669f4b69863e805b4893cc2ac186511c0b0f9197"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.11",
+     "sha256": "3f4d922e8c62f9a722c8f201a0c5c7b982b3ba39162fecbce4fcf0e30932e715"
+    }
+   ]
+  },
+  {
+   "slug": "161-1",
+   "short": "SRS 161.1",
+   "title": "Reglement über die Ombudsperson",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/161.1",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 18,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/161.1",
+     "sha256": "2e82fab4fdf9cb5766e283585c0c36fac3cb1d8ad7d76c5a484710fa0014de83"
+    }
+   ]
+  },
+  {
+   "slug": "173-1-geschr",
+   "short": "GeschR",
+   "title": "Geschäftsreglement des Stadtrats",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/173.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/687",
+     "sha256": "fbab0b6b463a3e7fc4b5c7a655ef81f785d297b54db200d00d821d9ccbe121d0"
+    },
+    {
+     "from": "2019-12-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/688",
+     "sha256": "9fe5356cdb99a6168da1d27be1e6402ca16d1d113ceeea605f1c9cd5e2754467"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/691",
+     "sha256": "f6d837d68876dc7c172254563ec17e1f91ad42924a11df2919a58542e1a0b943"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/692",
+     "sha256": "4e8939a99fefe09154cafb2f143cd60a0256c467a56b2d8978211129199d8274"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/757",
+     "sha256": "2e8b200715120a932af2668aab84db8846cf7c59fd20f3c5154d7e7e6ad06369"
+    },
+    {
+     "from": "2025-06-01",
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/867",
+     "sha256": "ed622756e0d56d42c10e86814d40dbd71c37619475fda334a9722465f5cb95e8"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 24,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1",
+     "sha256": "ebaa2a4e567c472f0ad044bcd15061111d5d968b14d4ed3b96d3f1c796f2155c"
+    }
+   ]
+  },
+  {
+   "slug": "173-4",
+   "short": "SRS 173.4",
+   "title": "Reglement über die Besoldung der Mitglieder des Stadtrates",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/173.4",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.4",
+     "sha256": "b02ff9f09c7f69ab21b0d4e217f99ba69efcdb71a2bd7f63acf211b79fc6c701"
+    }
+   ]
+  },
+  {
+   "slug": "181-1",
+   "short": "SRS 181.1",
+   "title": "Vertrag betreffend die Zusammenarbeit im Kindes- und Erwachsenenschutz (KES)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.1/versions/431",
+     "sha256": "35441eeba25484f82f51b1a6f1b9159aa42ea95012a0f2c775c513cf388f826b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.1",
+     "sha256": "8cba7a25c421c22bfce9584c34bf7b3d6aebd08dc31e5d05c2af1c8914888fbc"
+    }
+   ]
+  },
+  {
+   "slug": "181-2-odr",
+   "short": "ODR",
+   "title": "Organisations- und Delegationsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.2/versions/488",
+     "sha256": "ce1bba719d4daeae51b1e4b34dc67cd5a63bcfd11918d944d9af0ca5e02d60ce"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 40,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.2",
+     "sha256": "60229adff8705e6c1345b569d2b7a15a0d131c4537d866eea479e5b1960b09a6"
+    }
+   ]
+  },
+  {
+   "slug": "181-3",
+   "short": "SRS 181.3",
+   "title": "Reglement über die Delegation von Kompetenzen auf dem Gebiet des Zivilrechts",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.3",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.3",
+     "sha256": "2f3a82d6cab2badce93c3857b7b9654b62ed655ed5d660674b2e54931f44b1f5"
+    }
+   ]
+  },
+  {
+   "slug": "181-5",
+   "short": "SRS 181.5",
+   "title": "Reglement über die Entschädigung der Mitglieder von Verwaltungskommissionen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.5",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5/versions/490",
+     "sha256": "e2db5e5ed82b09818852692a7d863da5a027e1eda8d2457ff5e218cf43b2a9ff"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5/versions/786",
+     "sha256": "c2605679420ae7b0a722126a905a824fa2e2c8ff02decb58933379fa81053b09"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5",
+     "sha256": "1e58ad2850eeacab07de8ef9f37c5ecbb5a0fca378a4bf9a4149d88da8da609f"
+    }
+   ]
+  },
+  {
+   "slug": "181-8",
+   "short": "SRS 181.8",
+   "title": "Reglement über Benützung repräsentativer Säle und Flächen in Verwaltungsgebäuden",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.8",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.8",
+     "sha256": "3eb5066aa2a1657283ea2349c80a4dcccec2739ac8328f64978177d38d31f86a"
+    }
+   ]
+  },
+  {
+   "slug": "181-81",
+   "short": "SRS 181.81",
+   "title": "Gebührentarif für die Benützung repräsentativer Säle und Flächen in Verwaltungsgebäuden",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/181.81",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.81",
+     "sha256": "0ed858ba9adddec64e7df1e451c6f6f5ac9d209d12db231e1c6d44ecbf7372c8"
+    }
+   ]
+  },
+  {
+   "slug": "183-1-rbsi",
+   "short": "RBSI",
+   "title": "Reglement über den Betrieb und die Sicherheit der städtischen Informatik",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/183.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 26,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/168",
+     "sha256": "3f6a49ec26083b07d56eff3438ef7143e5dbe506b0650e151bf374d98eebf944"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 26,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/494",
+     "sha256": "c6c01bdcab44b6f846e2e3346131a61585fc2b53b76f0e1c428ffe843e1d7c8c"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 24,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/779",
+     "sha256": "e4a17abdcad6ae7564bcc0d448958444518dd352cd1bd1d854cfc01747b5a7c9"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1",
+     "sha256": "507f21771392406fae7a8acdd373468971615f66e2c60a811be36c02f842ea81"
+    }
+   ]
+  },
+  {
+   "slug": "183-3-rdbi",
+   "short": "RDBI",
+   "title": "Reglement über die dienstliche Benutzung von Informatiksystemen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/183.3",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/91",
+     "sha256": "2590dc7a4f006b3065d551e46284fd3daecfdcaf019320a6e7970ca09744c635"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/495",
+     "sha256": "17583330f979c4710bd76225d4d571702638c81ffabbcde08fc21048c2e2aec0"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/780",
+     "sha256": "1cf31f729af9b2a05104ae90acc197d3e05b3c7ae913704bcf9045a1db7e748f"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/923",
+     "sha256": "fe5095f051aa8582bacf1094f473031a6c299d869c9d788bf56238ca9ee73073"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3",
+     "sha256": "240457c7699f0bbe4bf1683a0f631e7b1ecea236d456e865d774fe770acecd44"
+    }
+   ]
+  },
+  {
+   "slug": "191-1-pr",
+   "short": "PR",
+   "title": "Personalreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 89,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/240",
+     "sha256": "153a929e56987a634432763f9bceb82290aebf5aadb5523a92205cd99e71bea8"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 95,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/255",
+     "sha256": "7bacc3cc400122925a587c69988dcde01a970642ab4e23ab0baf7ffeb4daa68a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 95,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/660",
+     "sha256": "ed6d58caed717d5f2c78b3042fa465c4622032edac7de5b10b3b753b8ac7777f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 95,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/698",
+     "sha256": "b65366dd93788ee8bac904ce5134e7d6171ddb45e7a97c07ccdf3119a76b04ab"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 97,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/797",
+     "sha256": "546c7fe0f3a99fa6411d3db1d5a8e728b2f2bb772a23391274883216efca1d20"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 98,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1",
+     "sha256": "62ebd5744e239f07a55fff734a657237137e5f5e61bb9e96297da5a4ad7264be"
+    }
+   ]
+  },
+  {
+   "slug": "191-7",
+   "short": "SRS 191.7",
+   "title": "Reglement über den Fonds für Härtefälle",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.7",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.7",
+     "sha256": "8e9d372aaca4f7d7c2c4494c06cc5df06253c55ebda0b21231e06c0f767d31f2"
+    }
+   ]
+  },
+  {
+   "slug": "191-8",
+   "short": "SRS 191.8",
+   "title": "Reglement über den Hilfsfonds der Stadtpolizei",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.8",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.8",
+     "sha256": "204f1300129b2ea0015d950f3c1f4bd580fb1ce21a6481796583dafcaaae0378"
+    }
+   ]
+  },
+  {
+   "slug": "191-11-vzp",
+   "short": "VZP",
+   "title": "Vollzugsreglement zum Personalreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.11",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 83,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/298",
+     "sha256": "853b2a3524b00298841232449bfcdbcc4f93924808a3d663218e89faa4102ec5"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 84,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/426",
+     "sha256": "43065225d1eb49d0a36162f69814fb5b72975cb0f423a20da62a0cebdd1f2cd8"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 84,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/496",
+     "sha256": "6568b6b048de605bbfafaacc14ed7f21f736b747886e036897b926fd0c9c09dc"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 84,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/711",
+     "sha256": "4ed2824ed4b571e1037bf6f45d7b153acac5dd44342ab484a83f382f0e14817c"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 84,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/718",
+     "sha256": "6df76bc6d78b595dd86b4bdf35d0fa704a9f66125c578bd8c1b06a7acee4c361"
+    },
+    {
+     "from": "2024-04-01",
+     "units": 87,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/791",
+     "sha256": "9e33a49da6bbf93062c2dd262be96f4379e884288a110ce6f8467661d7bcf227"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 88,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/889",
+     "sha256": "a0eecfcb959c6cc7e582aa6fd1429e14f339f0672ba866c3600257d0b4e5daa9"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 89,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11",
+     "sha256": "47599c3c2f293dafa914af8b5c3538e43a19825485e168f4391a79c5398d9694"
+    }
+   ]
+  },
+  {
+   "slug": "191-112",
+   "short": "SRS 191.112",
+   "title": "Reglement über die Beförderung bei der Stadtpolizei St.Gallen sowie bei Feuerwehr und Zivilschutz St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.112",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.112/versions/192",
+     "sha256": "1e2d89d83768e6abe74a87d559d5c864451fb6df8fc31187a12b89090496092a"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.112/versions/497",
+     "sha256": "714c03029baab42f6c4d79ff37033c7295c401b209ca139c9bbb2a69fbd4f0eb"
+    }
+   ]
+  },
+  {
+   "slug": "191-122-rwb",
+   "short": "RWB",
+   "title": "Weiterbildungsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.122",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.122",
+     "sha256": "dd53254088c66f0de1a6d6be7ee06ec7fd0933361b99696eb2f8ea08a8265258"
+    }
+   ]
+  },
+  {
+   "slug": "191-123-rmg",
+   "short": "RMG",
+   "title": "Reglement zum Mitarbeiterinnen- und Mitarbeitergespräch MAGplus",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.123",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 18,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.123",
+     "sha256": "985e2926d8d2799c98890204b96eb386f4e9f338337dae98706b860de90af39f"
+    }
+   ]
+  },
+  {
+   "slug": "191-124",
+   "short": "SRS 191.124",
+   "title": "Reglement für Arbeitsverhältnisse mit besonderer Arbeitszeit (RBA)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.124",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 61,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/663",
+     "sha256": "0a981b0042844f03f3aa37ed700d90533caafbc6aa7f1491eb3f22d8e9a76089"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 61,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/697",
+     "sha256": "131ffdd2145de78332d373d8b5c073b91cf771b1242bcd95003b2a02c50bebb4"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 61,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/739",
+     "sha256": "b9fc8c52cf78fcd1f67a92be99c713c0e1e2b11332b8f676751acbf1402d11ef"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 59,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124",
+     "sha256": "d2e03d9b01898d79e3aed620acd418ed7a8c47343882c3070d2670de8215448e"
+    }
+   ]
+  },
+  {
+   "slug": "191-125",
+   "short": "SRS 191.125",
+   "title": "Reglement für das Hauswartpersonal",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.125",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 24,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.125",
+     "sha256": "8b74424664d6642a3f3a58cba13888dd0571aae60f3367ba5780e006617b6eb0"
+    }
+   ]
+  },
+  {
+   "slug": "191-126",
+   "short": "SRS 191.126",
+   "title": "Reglement über die Personalverbände und Personalausschüsse",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.126",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 31,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.126",
+     "sha256": "da52d059d30334ec7df18feb207c026543d3994252b3d18616fb9ade0d89b809"
+    }
+   ]
+  },
+  {
+   "slug": "191-127",
+   "short": "SRS 191.127",
+   "title": "Reglement über den Schutz vor Diskriminierung, sexueller Belästigung und Mobbing am Arbeitsplatz",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/191.127",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.127",
+     "sha256": "e19bd844235a221a920b77496091b04a030e5a40175c08d3ed86e109b5072981"
+    }
+   ]
+  },
+  {
+   "slug": "192-1",
+   "short": "SRS 192.1",
+   "title": "Reglement über die Anstellungsbedingungen der Schulleitungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/192.1",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.1/versions/504",
+     "sha256": "eff78deeebf03935b008defbf768c20b7c49c59980b2e36d43b9ce7e88aeb420"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.1",
+     "sha256": "9d5025541ad64379d9d0520e703be11e249f15e02afa687f7d99302cc48affcf"
+    }
+   ]
+  },
+  {
+   "slug": "192-3",
+   "short": "SRS 192.3",
+   "title": "Urlaubsreglement für Lehrpersonen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/192.3",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3/versions/348",
+     "sha256": "0f233baf30e085dbd4459f153ab74d981433bb38a14b94ab7bf472dc0ced0355"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3/versions/505",
+     "sha256": "ba24b60884ffbd5f12a03ee37391785134592a91401073e8c64503ae3776aac1"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3",
+     "sha256": "48be644185057e375150aebb9a94bff372fe9cd3f114e9115366c85496df8da5"
+    }
+   ]
+  },
+  {
+   "slug": "194-1-pensionskassenreglement-pkr",
+   "short": "Pensionskassenreglement PKR",
+   "title": "Reglement über die Pensionskasse der Stadt St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/194.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/194.1/versions/469",
+     "sha256": "c22b6814bcc9fe05f9022608ba9f681516b4e0c1ff065fe5be991612304dc37e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 31,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/194.1",
+     "sha256": "b7254e03c3c2374987a00d5b04a21b08eb5afbf18e7088f42e6699efdc590b45"
+    }
+   ]
+  },
+  {
+   "slug": "196-1",
+   "short": "SRS 196.1",
+   "title": "Reglement über Lohnfortzahlung bei Nichtwiederwahl oder vorzeitigem Rücktritt von Mitgliedern des Stadtrats und von durch das Stadtparlament gewählten Angestellten",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/196.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 38,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/196.1/versions/87",
+     "sha256": "b653e58aa15e2097bff981309c9c85828af953445d55b5cc84278f74029a49fe"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/196.1",
+     "sha256": "5e7c87498afe7d71293599a868dfb8583860ebc9719a40870547a743ad88f098"
+    }
+   ]
+  },
+  {
+   "slug": "211-1-schulordnung",
+   "short": "Schulordnung",
+   "title": "Reglement über die städtischen Schulen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 44,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.1/versions/81",
+     "sha256": "4e95d9d5c211d90ed4b8d3d4f8155b83a6093d2f935cd4b8c5df5c2c606f3bda"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 44,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.1",
+     "sha256": "91995a81f0812b4d2352bb95341957edd935b9685c1be3966060c2a6c8c6aece"
+    }
+   ]
+  },
+  {
+   "slug": "211-13-zure-schule",
+   "short": "ZuRe Schule",
+   "title": "Reglement über die Zuständigkeit der Verwaltung im Bereich der Schule",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.13",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.13/versions/509",
+     "sha256": "6a7dc38bcaff31140786482b859419a21fd559a905657a9457f3e6fbd6f28f48"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.13",
+     "sha256": "1da45e759dd755106c36e5f2712df06940d897014f89002b8528b51f0d4869e0"
+    }
+   ]
+  },
+  {
+   "slug": "211-14",
+   "short": "SRS 211.14",
+   "title": "Reglement über die Talentschule",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.14",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.14/versions/511",
+     "sha256": "5a8f008646924c3cde4aeed177e7604282dc694486dff05216f8a3d72efebd76"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.14",
+     "sha256": "ec2f74967f1953e059e0f60fb37c0e10698adeba70e5486f249b7dc101730ce5"
+    }
+   ]
+  },
+  {
+   "slug": "211-33",
+   "short": "SRS 211.33",
+   "title": "Urlaubsreglement für Schülerinnen und Schüler",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.33",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33/versions/512",
+     "sha256": "c876b4de177eb88621c9a38571fe1d0bd7ec3abeebd34f1c1a29a573bfe2f101"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33/versions/708",
+     "sha256": "a24cf35dc890bfd8f49e08f8460b9a1e9884c11732c0057358eb2771fa0f2ab0"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33",
+     "sha256": "e0fd42fe99832b66703b5d4e3f1a09578bb5e9b730dcd6bf0ae070d35cc607c9"
+    }
+   ]
+  },
+  {
+   "slug": "211-41",
+   "short": "SRS 211.41",
+   "title": "Reglement über die besonderen Unterrichtswochen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.41",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.41",
+     "sha256": "101084f9c0f53b92d7fb767eb0e8a1dd42a0af356bcf6eb458195c16849f2b70"
+    }
+   ]
+  },
+  {
+   "slug": "211-51",
+   "short": "SRS 211.51",
+   "title": "Reglement über die Schulgelder an Kindergärten, Volksschulen und an der Musikschule",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.51",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.51",
+     "sha256": "afb8f1956589d92bb47d47bc53b24ee256fcadb700a06a1deca08350e206f5cf"
+    }
+   ]
+  },
+  {
+   "slug": "211-73",
+   "short": "SRS 211.73",
+   "title": "Reglement über den Schulfürsorgefonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.73",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.73/versions/43",
+     "sha256": "2f90aca5044f4d8dd9cdb742a2b47fd1ad415f23a2913a71dba9b0c4adb402da"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.73",
+     "sha256": "af23ffdd6c1aeafb68f8530c7f67ce71a3fa9ce4bfe31086c9859be1de099cd6"
+    }
+   ]
+  },
+  {
+   "slug": "211-74",
+   "short": "SRS 211.74",
+   "title": "Reglement über den Fonds für Ferienheime, Ferienlager und Ferienreisen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.74",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.74",
+     "sha256": "dc04250c94aaf4cbb28bf9d67726efd9e2ad52da9e531467e07ce6e5150243bd"
+    }
+   ]
+  },
+  {
+   "slug": "211-75",
+   "short": "SRS 211.75",
+   "title": "Reglement über den Ernst Schnering-Graf Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.75",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.75",
+     "sha256": "d60c1f2e22b15fe34cbc2597e444442b12c926ab63a46cff122962e78e307018"
+    }
+   ]
+  },
+  {
+   "slug": "211-511",
+   "short": "SRS 211.511",
+   "title": "Gebührentarif für den Besuch der städtischen Volksschule und der Musikschule",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/211.511",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/206",
+     "sha256": "cc65e61bc53040c7d636891d2c921ac8d12c4a0e60d66e5f853a78b3c2e029f9"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/234",
+     "sha256": "9b678f0b144a1c759e28d0640cf1da5516d8c569af9060424ddbe842488be9e7"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/327",
+     "sha256": "1f6d2ab2fc3e8f3dd7d6e0dd2fc16c11ef42932f5b647a01e3361d02cd5909e4"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/515",
+     "sha256": "eb153984aedfc2995e81a6360efd12b9130730456bff399dc83e652f69a772b8"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511",
+     "sha256": "878c5d335ed1e44135a67ac511abfe9bddfc37644d311b4a2867df9846c1a13b"
+    }
+   ]
+  },
+  {
+   "slug": "216-1",
+   "short": "SRS 216.1",
+   "title": "Reglement über die Tagesbetreuung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/165",
+     "sha256": "4aabc9f6db3f41981abfd9c90bdc3f823d28c2bde99c0335c31deb92136c52cf"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/235",
+     "sha256": "a91f9c525382f76049a064fa4fd53b1c1e00c2ed502f983a52ca3f2b9f92ce79"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/521",
+     "sha256": "f2a5166dc86bd3c14cc15bc93d052717b1d414200a9893fa53554fd266be4748"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1",
+     "sha256": "95416383e473a99063dcec310d02046eb48168beaddf737c51778dc9c6fc4e96"
+    }
+   ]
+  },
+  {
+   "slug": "216-3",
+   "short": "SRS 216.3",
+   "title": "Reglement über die Musikschule",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.3",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3/versions/45",
+     "sha256": "63f857712b4c0aac42d1888eaeedae418b5b3ee84cbe9c8facdb20830e84bedc"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3/versions/523",
+     "sha256": "013c4848c16a2f948b0e6151b5b439ce4f8d2bb6d729c7256b5e83de6b2dfba2"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3",
+     "sha256": "57a8503d255da3c2525ef4401feba685443af9f2a278fe1aae304520c04ccbea"
+    }
+   ]
+  },
+  {
+   "slug": "216-5",
+   "short": "SRS 216.5",
+   "title": "Reglement über die Kurse für freiwillige Handarbeit",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.5",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.5/versions/524",
+     "sha256": "e7640b97b7300ac34f84cfae0be7d825469b885fcad4771b430c9bf07adee150"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.5",
+     "sha256": "e673dee4a532ed80a4795e861c713e484ff3e630cf9a204211c6a34c05180dd3"
+    }
+   ]
+  },
+  {
+   "slug": "216-6",
+   "short": "SRS 216.6",
+   "title": "Reglement über die Kinder- und Jugendzahnklinik",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.6",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.6/versions/525",
+     "sha256": "92dc6198bf5d802ccef8117b8ce450bbe53bb466e86f98dd8ac6b7bfdd2b767d"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 18,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.6",
+     "sha256": "b85eb87fced846f541e58a4dd969318829426f20c282896ba9111a48acc9c891"
+    }
+   ]
+  },
+  {
+   "slug": "216-11",
+   "short": "SRS 216.11",
+   "title": "Tarifreglement Tagesbetreuung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.11/versions/180",
+     "sha256": "c46d32a56a21e7fd7cb7d371e89c43ae0bdf4d9288e1322e79e231da219eeaac"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.11",
+     "sha256": "f3ed2da6b27afad51e45116d624f66d81489374b7ef3ec094e3d923dcf3bc1be"
+    }
+   ]
+  },
+  {
+   "slug": "216-51",
+   "short": "SRS 216.51",
+   "title": "Gebührentarif für die Freizeitangebote für Kinder und Jugendliche",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/216.51",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.51",
+     "sha256": "d112c7f10241cce43699171af07736ad61a9bbffa34f5d1b4ac9533d76f82697"
+    }
+   ]
+  },
+  {
+   "slug": "218-11",
+   "short": "SRS 218.11",
+   "title": "Tarifreglement für die SpiKi-Spielgruppen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/218.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.11",
+     "sha256": "794c183459beb2d4c2859dd46e1039aaea5cc392be63e38c9e8d0316e745cba1"
+    }
+   ]
+  },
+  {
+   "slug": "218-12",
+   "short": "SRS 218.12",
+   "title": "Tarifreglement für Kindertagesstätten mit städtisch subventionierten Betreuungsplätzen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/218.12",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12/versions/354",
+     "sha256": "bb2b6b1b3146e028a9c28c4ba01fab2fce2e94d6cf67bc8421ea5dcb8fd9f99a"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12/versions/527",
+     "sha256": "6f8952fce3b1b63dcd668bf5a171d13053c5f80b675591be05f1576b9e4816f2"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12",
+     "sha256": "54ee44c88c5588b4bd852a5302ef7e214222cd6533e7840709f9123b8bfd4bb9"
+    }
+   ]
+  },
+  {
+   "slug": "231-1",
+   "short": "SRS 231.1",
+   "title": "Reglement über die Benützung der Stadtbibliothek",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/231.1",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/231.1",
+     "sha256": "cedca36c4d52556944694d087beca5981c1df58e993c52d9d8610e9dade162cf"
+    }
+   ]
+  },
+  {
+   "slug": "231-11",
+   "short": "SRS 231.11",
+   "title": "Gebührentarif für die Benützung der Stadtbibliothek Katharinen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/231.11",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/231.11",
+     "sha256": "b2b29e6335bb0944aee335f26e9b4d56c1d73a69e9f0d42876e3555ef0d6b2a7"
+    }
+   ]
+  },
+  {
+   "slug": "251-1",
+   "short": "SRS 251.1",
+   "title": "Reglement über die Verleihung des Kulturpreises und des Anerkennungspreises sowie die Ausrichtung von Förderpreisen für kulturelles Schaffen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.1",
+   "versions": [
+    {
+     "from": "1995-10-01",
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.1/versions/530",
+     "sha256": "5bc564db26c352907708b72cdc169a125d18ae430358b4621aa81dd05cae22e9"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.1",
+     "sha256": "288ee31735b221d142bb2624f84a521c71284e55f3eb00b48f8306f9f4400e1c"
+    }
+   ]
+  },
+  {
+   "slug": "251-2",
+   "short": "SRS 251.2",
+   "title": "Reglement über die Kommission für Kulturförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.2",
+     "sha256": "cd6f4c74376133d79613ec2161fe1024d9c72476fedcb57bd9cba3557da63aff"
+    }
+   ]
+  },
+  {
+   "slug": "251-3",
+   "short": "SRS 251.3",
+   "title": "Reglement für die Benützung des Zentrums \"Reithalle\"",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.3",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 18,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.3/versions/531",
+     "sha256": "ee3d758756cee55b20f5fff41da32b28217e29ead0d3650f3c8b1e2966e3898a"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.3",
+     "sha256": "994619c30c87f20b4b82e936ffabf6aa4c281707c7db754a166a866c3671d20c"
+    }
+   ]
+  },
+  {
+   "slug": "251-4",
+   "short": "SRS 251.4",
+   "title": "Reglement über die Kommission Kunst und Raum",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.4",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.4",
+     "sha256": "fd403c8a9d96b40eff56044869b1ae5224c46678a191ca27de22b9e715c59089"
+    }
+   ]
+  },
+  {
+   "slug": "251-5",
+   "short": "SRS 251.5",
+   "title": "Reglement über die Ausrichtung von Beiträgen an kulturelle Aktivitäten",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.5",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.5/versions/532",
+     "sha256": "e7def2eae99f9518686c316820ce0cf63bc7301cfef5e2f164ea51b3057a08c6"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.5",
+     "sha256": "69e3879deec66dd1668cd2a47d3645837eddd732910973515a112096e9762110"
+    }
+   ]
+  },
+  {
+   "slug": "251-6",
+   "short": "SRS 251.6",
+   "title": "Reglement über den Kulturfonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.6",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.6",
+     "sha256": "1ba9274f41ad8b22485e9cdd240ebb9ea95103a4bd46728d5976ae28ac33b84d"
+    }
+   ]
+  },
+  {
+   "slug": "251-8",
+   "short": "SRS 251.8",
+   "title": "Reglement über Beiträge an die Kosten der Benutzung des Areals der Olma Messen St.Gallen durch nicht-kommerzielle Veranstaltende",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.8",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.8",
+     "sha256": "d3d817210cfdf3aea7e5b9714d247e01f6f7019e7b545233408252ce47ac328d"
+    }
+   ]
+  },
+  {
+   "slug": "251-81",
+   "short": "SRS 251.81",
+   "title": "Vollzugsreglement zum Reglement über Beiträge an die Kosten der Benutzung des Areals der Olma Messen St.Gallen durch nicht-kommerzielle Veranstaltende",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/251.81",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.81",
+     "sha256": "239258c5d7ccb5b4f0e4d1bf74c1c7da05e11cabb1e96f3c541efbec72eb1686"
+    }
+   ]
+  },
+  {
+   "slug": "271-1",
+   "short": "SRS 271.1",
+   "title": "Reglement über die Nutzung der Schul-, Sport- und Freizeitanlagen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/271.1",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.1/versions/536",
+     "sha256": "575d5a36d1e8c846bba1897931d8ddcc1027d6f80ebd47032d42a33bba22c9f0"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.1",
+     "sha256": "62304410242e85d36fb64033d536912ea6edcd7f182bedd68c3bc239cefb3bb8"
+    }
+   ]
+  },
+  {
+   "slug": "271-11-vzr-anlagen",
+   "short": "VZR Anlagen",
+   "title": "Vollzugsreglement zum Reglement über die Nutzung der Schul-, Sport- und Freizeitanlagen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/271.11",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 35,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.11",
+     "sha256": "5904c6e12c2d95c916afb6940e6d900a1e0b085f1f75120eb9b891620b507488"
+    }
+   ]
+  },
+  {
+   "slug": "271-111",
+   "short": "SRS 271.111",
+   "title": "Gebührentarif für die Nutzung der Schul-, Sport- und Freizeitanlagen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/271.111",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 34,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.111",
+     "sha256": "467fe68b185ba9ae2a66c33e215b7dc85689ce0760218ce8a6b7ebb6721bc3fd"
+    }
+   ]
+  },
+  {
+   "slug": "321-2-sono-fonds",
+   "short": "SONO-Fonds",
+   "title": "Reglement über den Fonds zur Förderung der Arbeitsintegration",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.2",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.2",
+     "sha256": "6b18c97ddafa7e843af4c67c1e093c311f635705cbb11c0474a08af625b997dd"
+    }
+   ]
+  },
+  {
+   "slug": "321-5",
+   "short": "SRS 321.5",
+   "title": "Reglement über die städtischen Leistungen zu Gunsten von Einrichtungen zur Betreuung und Pflege von Betagten",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.5",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.5",
+     "sha256": "f513ce84a308519cdae1c3e6f72c49b9ee902faf271246fb8cb6c6d1ad7210f7"
+    }
+   ]
+  },
+  {
+   "slug": "321-9",
+   "short": "SRS 321.9",
+   "title": "Reglement für die sozialen Einrichtungen der Stadt St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.9",
+   "versions": [
+    {
+     "from": "1998-07-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9/versions/549",
+     "sha256": "e7a18fabff50c5d0a2efe3a75a3a8015fde0728f42a6eab9641b9bd658571460"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9/versions/671",
+     "sha256": "61f20c2f1f35b124b1309a3beb74955cf0f9cb47902c250b7fcf8a481ecca845"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9",
+     "sha256": "27aaad66923e9169cf85232ec39bd26c6b71dd0b852843fcc286eed41b0c36e2"
+    }
+   ]
+  },
+  {
+   "slug": "321-11",
+   "short": "SRS 321.11",
+   "title": "Reglement über den Billwiller-Haltmeyer-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.11",
+     "sha256": "0e7f4a0c495f7b4154a4253802ea5276025f07dc822b5e163089ac0fc1512919"
+    }
+   ]
+  },
+  {
+   "slug": "321-12",
+   "short": "SRS 321.12",
+   "title": "Reglement über den Härtsch-Eberli-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.12",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.12",
+     "sha256": "eafe88ed45a6d9801c117ae0d9d04092c26c9df6ffb22f12547e34001fb2a054"
+    }
+   ]
+  },
+  {
+   "slug": "321-13",
+   "short": "SRS 321.13",
+   "title": "Reglement über den kindes- und erwachsenenschutzrechtlichen Fonds der Stadt St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.13",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.13/versions/54",
+     "sha256": "48f36f4ed6c28c3ebdd5d2a67a653300d9784215a5375fbe36cffdffa33e1ac3"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.13",
+     "sha256": "5d8f7c8ff3d989fe02f1b14966a14229d63369bbf021a3c06261677bb8983662"
+    }
+   ]
+  },
+  {
+   "slug": "321-14",
+   "short": "SRS 321.14",
+   "title": "Reglement über den Fels'schen Stipendienfonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.14",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.14",
+     "sha256": "1775c3dfc916c927a8f48279fe50e5df4689b82be5a90dc7d9422cf0743e9e9d"
+    }
+   ]
+  },
+  {
+   "slug": "321-15",
+   "short": "SRS 321.15",
+   "title": "Reglement über den Stadelmann-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.15",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.15",
+     "sha256": "ef0bab445dd002e54c29e8a44da795d4c143969f9a5ddfe6167b9b38c76b51dc"
+    }
+   ]
+  },
+  {
+   "slug": "321-16",
+   "short": "SRS 321.16",
+   "title": "Reglement über den Thomann-Bittel-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.16",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.16",
+     "sha256": "7673908daa6bf99c9e3dfd67c1d63517a57574a629ae78521344c4125a85a031"
+    }
+   ]
+  },
+  {
+   "slug": "321-17",
+   "short": "SRS 321.17",
+   "title": "Reglement über den Dr. Seel-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.17",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.17",
+     "sha256": "74d6697dcd12584df75766f3b84cfd365ae0f304e322a5158abbdc06ba37b839"
+    }
+   ]
+  },
+  {
+   "slug": "321-18",
+   "short": "SRS 321.18",
+   "title": "Reglement über den Simon Rothschild-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.18",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.18",
+     "sha256": "fe617b4eb1235c0361b4d659a71545bd9cfa58728f3f10194435241366f8e439"
+    }
+   ]
+  },
+  {
+   "slug": "321-19",
+   "short": "SRS 321.19",
+   "title": "Reglement über den Lilly Moll-Fonds",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.19",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.19",
+     "sha256": "18f15d10b47f282cabf60a9d6a06033ac4b42de9f00d3e977e5d2e9f48011ee0"
+    }
+   ]
+  },
+  {
+   "slug": "321-93-benutzungsreglement-ufo-bwg",
+   "short": "Benützungsreglement UFO / BWG",
+   "title": "Reglement für die Benutzung der Unterkunft für Obdachlose (UFO) und des Betreuten Wohnens Grünhalde (BWG)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.93",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.93/versions/554",
+     "sha256": "4eda1b395882b321337022242e55ecc46e412bd5414bb62c003a1c0cf6eaf089"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.93",
+     "sha256": "36e6aa3138d5657c9e03ce4bf05c303cbb3a8fd704ed3dd57e04c19b1f983945"
+    }
+   ]
+  },
+  {
+   "slug": "321-931-gebuhrentarif-ufo-bwg",
+   "short": "Gebührentarif UFO/BWG",
+   "title": "Gebührentarif für die Benutzung der Unterkunft für Obdachlose (UFO) und des Betreuten Wohnens Grünhalde (BWG)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/321.931",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.931/versions/555",
+     "sha256": "a98a8733d209789968d416afb04c39ed38594f1f71eecbedf3fef6b79af7319a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.931",
+     "sha256": "cf5c3aa1800ef35c42b7b520c23a1068f97c5492f5fe0f7a819ea99d06790a26"
+    }
+   ]
+  },
+  {
+   "slug": "331-1",
+   "short": "SRS 331.1",
+   "title": "Reglement zur Förderung gesellschaftsrelevanter Projekte und Veranstaltungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/331.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/331.1/versions/556",
+     "sha256": "d68b137ddafd4cd4682d3adfec7e792f6c31969b41a6e2f82997fde756327932"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/331.1",
+     "sha256": "7a319737fc07ec743c1ad4f82bf5ed57b32c577e009704ef77f449edbc0652cd"
+    }
+   ]
+  },
+  {
+   "slug": "411-1",
+   "short": "SRS 411.1",
+   "title": "Vereinbarung über die Zusammenarbeit im Bereich Bevölkerungsschutz",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/411.1",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/182",
+     "sha256": "086c5734c7c5c25dec111356029030f768fb6b2c36b62805defc346b02d0b020"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 56,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/562",
+     "sha256": "91b5973ff79b01a0a1aeb61d3c24a629abc33042ccac2812aea55d67cad5fe4d"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 56,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/665",
+     "sha256": "aacb0e2b2535277956204eacb8fae7943b5d05f49b9e23b9ff95c498768cc93d"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 56,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1",
+     "sha256": "ade5d796b2bb9c2270e931b7361fac7aa530f418db9e1fb8c4d2708037be93b8"
+    }
+   ]
+  },
+  {
+   "slug": "412-1",
+   "short": "SRS 412.1",
+   "title": "Vereinbarung über die Erfüllung polizeilicher Aufgaben auf dem Gebiet der Stadt St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.1",
+     "sha256": "3ea00177fb6397ef944ff1bb0f0ec0819d8e343e37d8b2eabc3a0a096a7c3aa1"
+    }
+   ]
+  },
+  {
+   "slug": "412-2",
+   "short": "SRS 412.2",
+   "title": "Organisations- und Dienstreglement der Stadtpolizei",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.2",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2/versions/86",
+     "sha256": "68dd006bd9887839012f1eac72df0b51293b7f0ec2f6feed247241afba9d36e4"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2/versions/568",
+     "sha256": "b84dbb749ae17c3fa7db7921e36646fd2f1bea3c60baa4c7e43af745c698b9f4"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2",
+     "sha256": "c5aa6db8466fa566b6c98d7dd5f874bc15dfd25c187aaaa5790e3bd3daaeac2e"
+    }
+   ]
+  },
+  {
+   "slug": "412-4",
+   "short": "SRS 412.4",
+   "title": "Reglement über die Videoüberwachung auf öffentlichem Grund",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.4",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.4/versions/569",
+     "sha256": "c8358140323435746fe2d43d784eccf25a98c621398ac9333b9c824c5b3fdac6"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.4",
+     "sha256": "b79788ac1a3131f709cb0bdf4ae867ee27eb823482e9b4563f3d96becf93f4fd"
+    }
+   ]
+  },
+  {
+   "slug": "412-5",
+   "short": "SRS 412.5",
+   "title": "Reglement über die Videoüberwachung im Umfeld der Arena St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.5",
+   "versions": [
+    {
+     "from": "2009-08-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.5/versions/570",
+     "sha256": "94a702cae47b41802ceef67b812cc105baadc580fecd2c2c0a40f074a2ffa37c"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.5",
+     "sha256": "2741dc500af9241272bc4867febbf796acc63ef175458892670dbd09ff2836f0"
+    }
+   ]
+  },
+  {
+   "slug": "412-6",
+   "short": "SRS 412.6",
+   "title": "Reglement über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.6",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.6",
+     "sha256": "412865e8cc0c81d3b182cabc467618ba91fe21bc2391b33a3f38f91c5c88216f"
+    }
+   ]
+  },
+  {
+   "slug": "412-7",
+   "short": "SRS 412.7",
+   "title": "Reglement betreffend die Übermittlung von Gefahrenmeldungen an die Alarmempfangsanlage der Stadtpolizei",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.7",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.7",
+     "sha256": "470d89fa5d5049a81e6da80e9b35ca78ea5f18816d7f0af6c4ec924c5ccebb0a"
+    }
+   ]
+  },
+  {
+   "slug": "412-8",
+   "short": "SRS 412.8",
+   "title": "Reglement über Fundsachen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.8",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.8/versions/211",
+     "sha256": "1c7adf11263418e12f82009ba1c7484d698661644b524696b491c0671595ac68"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.8",
+     "sha256": "1e7df69b34e416ced569b096bd00d659e902aef4110f51b6eefaca83f193683e"
+    }
+   ]
+  },
+  {
+   "slug": "412-9",
+   "short": "SRS 412.9",
+   "title": "Hundereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.9",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.9/versions/225",
+     "sha256": "939327d2b5f21561f9166311bfcd2b447cd3b51f74de324bf9dbfc0b649d853f"
+    },
+    {
+     "from": "2020-11-01",
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.9",
+     "sha256": "3fdf28d7a1259205b18761f91675fc4fe703dc2ee2c8c679fb802c0ed17a2990"
+    }
+   ]
+  },
+  {
+   "slug": "412-11",
+   "short": "SRS 412.11",
+   "title": "Polizeireglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.11",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11/versions/564",
+     "sha256": "82f9f9718081e245eaf51f30104a6af407abd63c757b8e5435a9d03eef07f174"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11/versions/828",
+     "sha256": "80b9e0f5cb669d541f1c1742c8618362131228e5e8f8986188d04c579f9dd911"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11",
+     "sha256": "dc2b84199c3cd688b0644eb04fa1b6514d0688dc0907c2028e6a7119b7bc537c"
+    }
+   ]
+  },
+  {
+   "slug": "412-51",
+   "short": "SRS 412.51",
+   "title": "Reglement über die Videoüberwachung der Parkgaragen Kreuzbleiche und Rathaus",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.51",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.51/versions/571",
+     "sha256": "6ca8eaddd4892fb39b4c501675ba3bdf59c411fe423b5039958474cc3a2253d9"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.51",
+     "sha256": "ed9b88ea4b40442cf7875a449ca46951b97830dc82b4ff352e592633c488e5c7"
+    }
+   ]
+  },
+  {
+   "slug": "412-111",
+   "short": "SRS 412.111",
+   "title": "Reglement über die Grundsätze der Erhebung von Gebühren durch die Stadtpolizei",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.111",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.111",
+     "sha256": "5e6c47ca58cfef2f8f2b5382ffc62c9e601be9d6e574fdf520c5af54e3ce88a2"
+    }
+   ]
+  },
+  {
+   "slug": "412-112",
+   "short": "SRS 412.112",
+   "title": "Gebührentarif der Stadtpolizei",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/412.112",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/183",
+     "sha256": "6f68638e7bbba2acbc469a126a9890c70ae64afe9b80d78705343325a6c4b9fd"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/567",
+     "sha256": "9c842e1b8318094cdcfb49d96a1587646dabd4b580a3ba107c744a6a620ed543"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/855",
+     "sha256": "52dca635700f1736b52a9bc00e8ecbd155748c1b6058da01fd922834e429687e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112",
+     "sha256": "f4e46d70d96e063ad2ac31b591564a7724f01b12dd8b7863697ecb6340e794f8"
+    }
+   ]
+  }
+ ]
+}
