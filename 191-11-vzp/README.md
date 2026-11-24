@@ -4,6 +4,10 @@ VZP · 8 versions, from 2019-01-01 (latest in force: 2026-05-01) · <https://st.
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang 1: Zuständigkeiten | [annex-001.md](annex-001.md) | 1 | 2026-05-01 |
+| Anhang 2: Richtlinien zu Lohn-Einreihung und -Entwicklung des städtischen Verwaltungspersonals | [annex-002.md](annex-002.md) | 1 | 2026-05-01 |
+| Anhang 3: Entschädigungen | [annex-003.md](annex-003.md) | 1 | 2026-05-01 |
+| Anhang 4: Personaladministrative Zuordnung gewählter Mitarbeitenden | [annex-004.md](annex-004.md) | 1 | 2026-05-01 |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |

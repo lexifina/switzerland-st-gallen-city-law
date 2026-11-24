@@ -1,12 +1,13 @@
 # How this repository was made (St. Gallen (city))
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Stadt St.Gallen: SRS (LexWork) | <https://st.gallen.tlex.ch/> | 2026-11-03 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Stadt St.Gallen: SRS (LexWork) | <https://st.gallen.tlex.ch/> | 2026-11-04 | Official acts excluded from copyright under Swiss URG Art. 5 para. 1 let. a. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -45,7 +46,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `191-7` | Reglement über den Fonds für Härtefälle | 1 | 2018-01-01 to 2018-01-01 |
 | `191-8` | Reglement über den Hilfsfonds der Stadtpolizei | 1 | 2018-01-01 to 2018-01-01 |
 | `191-11-vzp` | Vollzugsreglement zum Personalreglement | 8 | 2019-01-01 to 2026-05-01 |
-| `191-112` | Reglement über die Beförderung bei der Stadtpolizei St.Gallen sowie bei Feuerwehr und Zivilschutz St.Gallen | 2 | 2017-01-01 to 2020-04-01 |
+| `191-112` | Reglement über die Beförderung bei der Stadtpolizei St.Gallen sowie bei Feuerwehr und Zivilschutz St.Gallen | 3 | 2017-01-01 to 2025-04-01 |
 | `191-122-rwb` | Weiterbildungsreglement | 1 | 2018-01-01 to 2018-01-01 |
 | `191-123-rmg` | Reglement zum Mitarbeiterinnen- und Mitarbeitergespräch MAGplus | 1 | 2018-01-01 to 2018-01-01 |
 | `191-124` | Reglement für Arbeitsverhältnisse mit besonderer Arbeitszeit (RBA) | 4 | 2018-01-01 to 2025-01-01 |
@@ -115,20 +116,168 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `412-51` | Reglement über die Videoüberwachung der Parkgaragen Kreuzbleiche und Rathaus | 2 | 2018-01-01 to 2025-10-01 |
 | `412-111` | Reglement über die Grundsätze der Erhebung von Gebühren durch die Stadtpolizei | 1 | 2015-01-01 to 2015-01-01 |
 | `412-112` | Gebührentarif der Stadtpolizei | 4 | 2016-10-01 to 2026-01-01 |
+| `414-1` | Feuerschutzreglement | 1 | 2023-01-01 to 2023-01-01 |
+| `414-3` | Reglement über die Organisation von Feuerwehr und Zivilschutz St.Gallen | 1 | 2024-01-01 to 2024-01-01 |
+| `414-41` | Gebührentarif für Feuerwehr und Zivilschutz | 1 | 2021-01-01 to 2021-01-01 |
+| `415-1` | Friedhofreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `415-11` | Reglement über das Bestattungs- und Friedhofwesen | 1 | 2018-01-01 to 2018-01-01 |
+| `415-111` | Gebührentarif für das Bestattungs- und Friedhofwesen | 1 | 2024-01-01 to 2024-01-01 |
+| `416-3` | Gebührentarif für Dienstleistungen der Bevölkerungsdienste | 1 | 2024-07-01 to 2024-07-01 |
+| `511-1` | Stadtwerkereglement | 1 | 2025-05-01 to 2025-05-01 |
+| `511-2` | Energiereglement | 1 | 2025-03-01 to 2025-03-01 |
+| `511-11` | Organisationsreglement der Stadtwerke | 1 | 2023-02-01 to 2023-02-01 |
+| `511-12` | Versorgungsreglement der Stadtwerke | 1 | 2022-06-01 to 2022-06-01 |
+| `511-21` | Energiefondsreglement | 1 | 2025-03-01 to 2025-03-01 |
+| `512-1` | Allgemeiner Gebührentarif der Stadtwerke | 1 | 2026-01-01 to 2026-01-01 |
+| `512-3` | Gebührentarif der Elektrizitätsversorgung | 1 | 2026-01-01 to 2026-01-01 |
+| `512-5` | Gebührentarif der Wasserversorgung | 1 | 2025-01-01 to 2025-01-01 |
+| `512-7` | Gebührentarif der Gasversorgung | 1 | 2026-01-01 to 2026-01-01 |
+| `512-9` | Gebührentarif der Wärmeversorgung für Fernwärme und Nahwärmeverbunde | 1 | 2025-01-01 to 2025-01-01 |
+| `512-12` | Gebührentarif des Glasfasernetzes | 1 | 2025-01-01 to 2025-01-01 |
+| `512-51` | Reglement über den Fonds Wasser-Rappen | 1 | 2022-06-01 to 2022-06-01 |
+| `521-3` | Reglement über die Verkehrsbetriebe St.Gallen | 1 | 2009-06-01 to 2009-06-01 |
+| `521-32` | Verbundtarif der Verkehrsbetriebe | 1 | 2014-12-14 to 2014-12-14 |
+| `531-3` | Reglement über die nicht gewerbsmässigen Schlachtungen | 1 | 1992-12-31 to 1992-12-31 |
+| `541-1` | Abfallreglement | 1 | 2020-02-01 to 2020-02-01 |
+| `541-11` | Vollzugsreglement zum Abfallreglement | 1 | 2025-07-01 to 2025-07-01 |
+| `541-111` | Gebührentarif für die Entsorgung von Siedlungsabfällen | 1 | 2025-07-01 to 2025-07-01 |
+| `541-112` | Gebührentarif für das Kehrichtheizkraftwerk | 1 | 2024-02-01 to 2024-02-01 |
+| `542-1` | Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel | 1 | 2018-04-01 to 2018-04-01 |
+| `542-3` | Gebührentarif für die Deponie | 1 | 2024-01-01 to 2024-01-01 |
+| `542-11` | Vollzugsreglement zum Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel | 1 | 2026-10-01 to 2026-10-01 |
+| `543-1` | Abwasserreglement | 1 | 2022-01-01 to 2022-01-01 |
+| `543-11` | Vollzugsreglement zum Abwasserreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `543-12` | Reglement über den Fonds zur Förderung von ökologischen Massnahmen zum Gewässerschutz (Schwammstadtfonds) | 1 | 2022-03-01 to 2022-03-01 |
+| `543-111` | Gebührentarif zum Abwasserreglement | 1 | 2024-01-01 to 2024-01-01 |
+| `621-1` | Reglement über Ruhetag und Ladenöffnung | 1 | 2005-04-01 to 2005-04-01 |
+| `621-11` | Vollzugsreglement zum Reglement über Ruhetag und Ladenöffnung | 1 | 2020-06-01 to 2020-06-01 |
+| `622-1` | Gastwirtschaftsreglement | 1 | 2025-05-01 to 2025-05-01 |
+| `623-1` | Marktreglement | 1 | 2015-01-01 to 2015-01-01 |
+| `623-11` | Markttarif | 1 | 2015-01-01 to 2015-01-01 |
+| `624-1` | Gasttaxenreglement | 1 | 2026-08-01 to 2026-08-01 |
+| `624-11` | Vollzugsreglement zum Gasttaxenreglement | 1 | 2017-10-01 to 2017-10-01 |
+| `711-3` | Reglement für eine nachhaltige Verkehrsentwicklung | 1 | 2022-07-01 to 2022-07-01 |
+| `711-7` | Reglement über Ausnahmebewilligungen im Strassenverkehr | 1 | 2019-04-01 to 2019-04-01 |
+| `711-71` | Gebührentarif über Ausnahmebewilligungen im Strassenverkehr | 1 | 2019-04-01 to 2019-04-01 |
+| `712-1` | Reglement über das Parkieren auf Liegenschaften des Verwaltungsvermögens | 1 | 2024-01-01 to 2024-01-01 |
+| `712-2` | Reglement über das Parkieren auf öffentlichem Grund | 1 | 2024-11-01 to 2024-11-01 |
+| `712-21` | Vollzugsreglement zum Parkierreglement | 1 | 2024-11-01 to 2024-11-01 |
+| `712-22` | Parkiergebührentarif | 1 | 2024-11-01 to 2024-11-01 |
+| `713-1` | Reglement über die Personenbeförderung | 1 | 2025-07-01 to 2025-07-01 |
+| `713-11` | Vollzugsreglement zum Reglement über die Personenbeförderung | 1 | 2025-07-01 to 2025-07-01 |
+| `713-112` | Gebührentarif betreffend das Reglement über die Personenbeförderung | 1 | 2025-07-01 to 2025-07-01 |
+| `731-1` | Bauordnung | 1 | 2018-01-01 to 2018-01-01 |
+| `731-2` | Reklamereglement | 1 | 2006-10-01 to 2006-10-01 |
+| `731-3` | Reglement über die Finanzierung der Altstadt-, Ortsbild- und Denkmalpflege | 1 | 2025-01-01 to 2025-01-01 |
+| `731-4` | Planungsreglement | 1 | 1993-01-01 to 1993-01-01 |
+| `731-8` | Sonderbauvorschriften / Schutzverordnungen / Strassenplan | 1 | 2026-10-01 to 2026-10-01 |
+| `731-9` | Zonenplan | 1 | 2018-01-01 to 2018-01-01 |
+| `731-11` | Vollzugsreglement zur Bauordnung und zum Reklamereglement | 1 | 2024-07-01 to 2024-07-01 |
+| `731-12` | Reglement über den Sachverständigenrat für Städtebau und Architektur | 1 | 2018-01-01 to 2018-01-01 |
+| `731-91` | Vollzugsreglement zur Schutzverordnung Dreilinden / Notkersegg | 1 | 2018-01-01 to 2018-01-01 |
+| `731-112` | Gebührentarif des Amtes für Baubewilligungen | 1 | 2021-01-01 to 2021-01-01 |
+| `733-1` | Reglement zu den Massnahmen zur Förderung des Wohnungsbaues und der Wohnungserneuerung | 1 | 2018-01-01 to 2018-01-01 |
+| `733-3` | Reglement zur Förderung des gemeinnützigen Wohnungsbaus | 1 | 2014-01-01 to 2014-01-01 |
+| `733-5` | Reglement zur Volksinitiative zur Erhaltung preisgünstiger Wohnungen | 1 | 2024-05-01 to 2024-05-01 |
+| `733-6` | Reglement über die Mietzinsverbilligung in der Siedlung Remishueb | 1 | 2005-04-01 to 2005-04-01 |
+| `742-2` | Reglement über die Benennung von Verkehrsanlagen und die Gebäudeadressierung | 1 | 2018-01-01 to 2018-01-01 |
+| `751-1` | Immissionsschutzreglement | 1 | 2021-02-01 to 2021-02-01 |
+| `751-2` | Reglement für ein gesundes Stadtklima | 1 | 2022-07-01 to 2022-07-01 |
+| `751-11` | Vollzugsreglement zum Immissionsschutzreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `751-15` | Gebührentarif für die Feuerungskontrolle | 1 | 2020-01-01 to 2020-01-01 |
+| `811-2` | Reglement über die Finanzkontrolle | 1 | 2018-01-01 to 2018-01-01 |
+| `811-5` | Reglement über die Reserve Werterhalt Finanzvermögen | 1 | 2023-05-01 to 2023-05-01 |
+| `913-1` | Reglement über die Kosten der Nachführung der amtlichen Vermessung | 1 | 1996-04-01 to 1996-04-01 |
+| `920-2` | Reglement über die Zuständigkeit bei der Erhebung von Ordnungsbussen | 1 | 2023-07-01 to 2023-07-01 |
+| `930-2` | Reglement über den Weiterzug von Verfügungen und Entscheiden unterer Instanzen | 1 | 2008-01-01 to 2008-01-01 |
+| `414-1-2` | Feuerschutzreglement | 3 | 2012-01-01 to 2023-01-01 |
+| `414-3-2` | Reglement über die Organisation von Feuerwehr und Zivilschutz St.Gallen | 4 | 2016-01-01 to 2024-01-01 |
+| `414-41-2` | Gebührentarif für Feuerwehr und Zivilschutz | 2 | 2016-07-01 to 2021-01-01 |
+| `415-1-2` | Friedhofreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `415-11-2` | Reglement über das Bestattungs- und Friedhofwesen | 1 | 2018-01-01 to 2018-01-01 |
+| `415-111-2` | Gebührentarif für das Bestattungs- und Friedhofwesen | 2 | 2018-04-01 to 2024-01-01 |
+| `416-3-2` | Gebührentarif für Dienstleistungen der Bevölkerungsdienste | 3 | 2019-01-01 to 2024-07-01 |
+| `511-1-swr` | Stadtwerkereglement | 5 | 2019-01-01 to 2025-05-01 |
+| `511-2-enr` | Energiereglement | 2 | 2015-01-01 to 2025-03-01 |
+| `511-11-swo` | Organisationsreglement der Stadtwerke | 3 | 2018-01-01 to 2023-02-01 |
+| `511-12-swv` | Versorgungsreglement der Stadtwerke | 6 | 2019-01-01 to 2022-06-01 |
+| `511-21-enfr` | Energiefondsreglement | 6 | 2019-01-01 to 2025-03-01 |
+| `512-1-swga` | Allgemeiner Gebührentarif der Stadtwerke | 3 | 2016-01-01 to 2026-01-01 |
+| `512-3-swge` | Gebührentarif der Elektrizitätsversorgung | 8 | 2019-01-01 to 2026-01-01 |
+| `512-5-swgw` | Gebührentarif der Wasserversorgung | 4 | 2016-01-01 to 2025-01-01 |
+| `512-7-swgg` | Gebührentarif der Gasversorgung | 8 | 2018-10-01 to 2026-01-01 |
+| `512-9-swgf` | Gebührentarif der Wärmeversorgung für Fernwärme und Nahwärmeverbunde | 4 | 2016-01-01 to 2025-01-01 |
+| `512-12-swgt` | Gebührentarif des Glasfasernetzes | 1 | 2025-01-01 to 2025-01-01 |
+| `512-51-fwr` | Reglement über den Fonds Wasser-Rappen | 2 | 2020-01-01 to 2022-06-01 |
+| `521-3-2` | Reglement über die Verkehrsbetriebe St.Gallen | 1 | 2009-06-01 to 2009-06-01 |
+| `521-32-2` | Verbundtarif der Verkehrsbetriebe | 1 | 2014-12-14 to 2014-12-14 |
+| `531-3-2` | Reglement über die nicht gewerbsmässigen Schlachtungen | 1 | 1992-12-31 to 1992-12-31 |
+| `541-1-abfr` | Abfallreglement | 2 | 2017-01-01 to 2020-02-01 |
+| `541-11-abfv` | Vollzugsreglement zum Abfallreglement | 4 | 2017-01-01 to 2025-07-01 |
+| `541-111-2` | Gebührentarif für die Entsorgung von Siedlungsabfällen | 4 | 2017-01-01 to 2025-07-01 |
+| `541-112-khkt` | Gebührentarif für das Kehrichtheizkraftwerk | 5 | 2018-01-01 to 2024-02-01 |
+| `542-1-2` | Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel | 1 | 2018-04-01 to 2018-04-01 |
+| `542-3-dt` | Gebührentarif für die Deponie | 2 | 2017-12-01 to 2024-01-01 |
+| `542-11-2` | Vollzugsreglement zum Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel | 2 | 2018-01-01 to 2026-10-01 |
+| `543-1-2` | Abwasserreglement | 2 | 2011-07-01 to 2022-01-01 |
+| `543-11-2` | Vollzugsreglement zum Abwasserreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `543-12-fog` | Reglement über den Fonds zur Förderung von ökologischen Massnahmen zum Gewässerschutz (Schwammstadtfonds) | 1 | 2022-03-01 to 2022-03-01 |
+| `543-111-awgt` | Gebührentarif zum Abwasserreglement | 3 | 2014-04-01 to 2024-01-01 |
+| `621-1-2` | Reglement über Ruhetag und Ladenöffnung | 1 | 2005-04-01 to 2005-04-01 |
+| `621-11-2` | Vollzugsreglement zum Reglement über Ruhetag und Ladenöffnung | 1 | 2020-06-01 to 2020-06-01 |
+| `622-1-2` | Gastwirtschaftsreglement | 2 | 1996-07-01 to 2025-05-01 |
+| `623-1-2` | Marktreglement | 1 | 2015-01-01 to 2015-01-01 |
+| `623-11-2` | Markttarif | 1 | 2015-01-01 to 2015-01-01 |
+| `624-1-2` | Gasttaxenreglement | 2 | 2017-10-01 to 2026-08-01 |
+| `624-11-2` | Vollzugsreglement zum Gasttaxenreglement | 1 | 2017-10-01 to 2017-10-01 |
+| `711-3-2` | Reglement für eine nachhaltige Verkehrsentwicklung | 2 | 2010-04-01 to 2022-07-01 |
+| `711-7-2` | Reglement über Ausnahmebewilligungen im Strassenverkehr | 1 | 2019-04-01 to 2019-04-01 |
+| `711-71-2` | Gebührentarif über Ausnahmebewilligungen im Strassenverkehr | 2 | 2014-01-01 to 2019-04-01 |
+| `712-1-plv` | Reglement über das Parkieren auf Liegenschaften des Verwaltungsvermögens | 2 | 2021-08-01 to 2024-01-01 |
+| `712-2-parkierreglement` | Reglement über das Parkieren auf öffentlichem Grund | 2 | 2013-10-01 to 2024-11-01 |
+| `712-21-2` | Vollzugsreglement zum Parkierreglement | 3 | 2013-11-01 to 2024-11-01 |
+| `712-22-2` | Parkiergebührentarif | 3 | 2017-01-01 to 2024-11-01 |
+| `713-1-rpb` | Reglement über die Personenbeförderung | 2 | 2015-01-01 to 2025-07-01 |
+| `713-11-vrpb` | Vollzugsreglement zum Reglement über die Personenbeförderung | 3 | 2015-01-01 to 2025-07-01 |
+| `713-112-2` | Gebührentarif betreffend das Reglement über die Personenbeförderung | 2 | 2015-01-01 to 2025-07-01 |
+| `731-1-2` | Bauordnung | 1 | 2018-01-01 to 2018-01-01 |
+| `731-2-2` | Reklamereglement | 1 | 2006-10-01 to 2006-10-01 |
+| `731-3-2` | Reglement über die Finanzierung der Altstadt-, Ortsbild- und Denkmalpflege | 3 | 1980-02-12 to 2025-01-01 |
+| `731-4-2` | Planungsreglement | 1 | 1993-01-01 to 1993-01-01 |
+| `731-11-2` | Vollzugsreglement zur Bauordnung und zum Reklamereglement | 2 | 2018-01-01 to 2024-07-01 |
+| `731-12-2` | Reglement über den Sachverständigenrat für Städtebau und Architektur | 1 | 2018-01-01 to 2018-01-01 |
+| `731-91-2` | Vollzugsreglement zur Schutzverordnung Dreilinden / Notkersegg | 1 | 2018-01-01 to 2018-01-01 |
+| `731-112-2` | Gebührentarif des Amtes für Baubewilligungen | 3 | 2015-01-01 to 2021-01-01 |
+| `733-1-2` | Reglement zu den Massnahmen zur Förderung des Wohnungsbaues und der Wohnungserneuerung | 1 | 2018-01-01 to 2018-01-01 |
+| `733-3-2` | Reglement zur Förderung des gemeinnützigen Wohnungsbaus | 1 | 2014-01-01 to 2014-01-01 |
+| `733-5-2` | Reglement zur Volksinitiative zur Erhaltung preisgünstiger Wohnungen | 2 | 2005-04-01 to 2024-05-01 |
+| `733-6-2` | Reglement über die Mietzinsverbilligung in der Siedlung Remishueb | 1 | 2005-04-01 to 2005-04-01 |
+| `742-2-2` | Reglement über die Benennung von Verkehrsanlagen und die Gebäudeadressierung | 1 | 2018-01-01 to 2018-01-01 |
+| `751-1-2` | Immissionsschutzreglement | 2 | 2007-10-01 to 2021-02-01 |
+| `751-2-2` | Reglement für ein gesundes Stadtklima | 1 | 2022-07-01 to 2022-07-01 |
+| `751-11-2` | Vollzugsreglement zum Immissionsschutzreglement | 1 | 2018-01-01 to 2018-01-01 |
+| `751-15-2` | Gebührentarif für die Feuerungskontrolle | 2 | 2014-01-01 to 2020-01-01 |
+| `811-2-2` | Reglement über die Finanzkontrolle | 1 | 2018-01-01 to 2018-01-01 |
+| `811-5-2` | Reglement über die Reserve Werterhalt Finanzvermögen | 1 | 2023-05-01 to 2023-05-01 |
+| `913-1-2` | Reglement über die Kosten der Nachführung der amtlichen Vermessung | 1 | 1996-04-01 to 1996-04-01 |
+| `920-2-2` | Reglement über die Zuständigkeit bei der Erhebung von Ordnungsbussen | 2 | 2018-01-01 to 2023-07-01 |
+| `930-2-2` | Reglement über den Weiterzug von Verfügungen und Entscheiden unterer Instanzen | 1 | 2008-01-01 to 2008-01-01 |
 
-The build made 189 commits:
+The build made 433 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 101 | first version of an act |
-| 88 | one law on its in-force day |
-| 0 | changes no amendment note explains, credited to the publisher |
+| 177 | baseline texts where the record starts |
+| 240 | named laws, court decisions and treaties |
+| 1 | changes no amendment note explains, credited to the publisher |
+| 15 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 284 laws in the record.
-- 317 tags.
+- 488 laws in the record.
+- 666 tags.
 
 ## Dates
 
@@ -140,13 +289,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a076af9ae1b8974468d28e2cbb70d3b3204ce541279d4e0fa4fa384fc149b002` (1440648 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `87b2183f44defcf1cba40e59e7ff1c076451a45960f10d0de875a1d8d486d28e` (3587680 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-196 versions of 101 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -157,10 +306,17 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- The 74 additional municipal acts each contain one current consolidated version, credited to the publisher as the oldest version available in this record, with first_law null.
+- Each additional version is dated by its own official current-version in-force statement; no retrieval-date fallback is used.
+- The additional acts are single-file texts with separate files for textual PDF annexes. Publisher amendment tables, inline footnote markers, the footnote apparatus and the display Stand date are omitted from the HTML law text.
+- Maps and measurement diagrams in three additional acts await a separate image edition; their source annex titles remain in the text.
+- Textual annexes from the official current edition are added to the latest recorded version; all existing provision text, dates, credits and earlier versions remain unchanged. PDF text is preserved in preformatted blocks.
+- Textual annexes from the official current edition are added to the latest recorded version; all existing provision text, dates, credits and earlier versions remain unchanged. PDF text is preserved in preformatted blocks.
+- Textual annexes from the official current edition are added to the latest recorded version; all existing provision text, dates, credits and earlier versions remain unchanged. PDF text is preserved in preformatted blocks.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -168,3 +324,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the city's own collection.
+- A model wrote extraction and validation code and reviewed document structure and image classification. It wrote no legal text, performed no OCR and corrected no source words.
+- A model wrote extraction and validation code. No legal wording was generated or corrected, and no OCR was used.
+- A model wrote extraction and validation code. No legal wording was generated or corrected, and no OCR was used.
+- A model wrote extraction and validation code. No legal wording was generated or corrected, and no OCR was used.

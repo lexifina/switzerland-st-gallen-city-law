@@ -4,6 +4,9 @@ SRS 411.1 · 4 versions, from 2005-04-01 (latest in force: 2023-01-01) · <https
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang 1: Finanzkompetenzen | [annex-001.md](annex-001.md) | 1 | 2023-01-01 |
+| Anhang 2: Ermittlung des Gemeindeanteils | [annex-002.md](annex-002.md) | 1 | 2023-01-01 |
+| Anhang 3: Anlagestandorte | [annex-003.md](annex-003.md) | 1 | 2023-01-01 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2020-01-01 |
 | Art. 2 | [art-002.md](art-002.md) | 1 | 2020-01-01 |
 | Art. 3 | [art-003.md](art-003.md) | 1 | 2020-01-01 |

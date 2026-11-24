@@ -4,6 +4,7 @@ SRS 151.1 · 3 versions, from 2018-01-01 (latest in force: 2025-11-01) · <https
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang 1: Gemäss Art. 98 | [annex-001.md](annex-001.md) | 1 | 2025-11-01 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2025-11-01 |
 | Art. 2 | [art-002.md](art-002.md) | 2 | 2025-11-01 |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |

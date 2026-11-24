@@ -1,0 +1,21 @@
+{
+ "corpus": "ch/st-gallen/st-gallen/acts",
+ "path": "switzerland/st-gallen/st-gallen/acts",
+ "scope": "selected-acts",
+ "acts": 247,
+ "future_branch": "zukunft",
+ "publisher": "Stadt St.Gallen, SRS (st.gallen.tlex.ch)",
+ "name": "St. Gallen (city)",
+ "language": "de",
+ "coverage": "247 acts of St. Gallen (city) with every dated version the source gives (431 versions), in force from 1980-02-12 to 2026-11-04",
+ "history": "in-force",
+ "history_from": "1980-02-12",
+ "record_to": "2026-11-04",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Stadt St.Gallen, SRS (st.gallen.tlex.ch).",
+ "in_force_trailer": "In-force",
+ "citation": {
+  "file": "([^/]+)/art-0*([0-9]+[a-z]?)\\.md",
+  "cites": "Art(ikel|\\.) ?{n}([^0-9a-z]|$)"
+ }
+}

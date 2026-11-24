@@ -9,25 +9,37 @@
    "versions": [
     {
      "from": "2017-04-01",
+     "to": "2019-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 73,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/214",
      "sha256": "2e2084480f3ff6eb1b71777801b2226feec97353396e109464c45497e6700368"
     },
     {
      "from": "2019-09-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 73,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/268",
      "sha256": "e7c9c8fa104d6254f544b1893d91a683415fe9a7339881cf66202abc179137cf"
     },
     {
      "from": "2021-01-01",
+     "to": "2025-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 74,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1/versions/471",
      "sha256": "41d45a27bd7648e3944d35db1769a002ef34c76bdecde5aa220b1d33b261e731"
     },
     {
      "from": "2025-08-01",
-     "units": 72,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 73,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/111.1",
      "sha256": "d8b6456eab288a5f80dfe0334c8db447b330af82a832de0c18ed2979af632f65"
     }
@@ -41,6 +53,9 @@
    "versions": [
     {
      "from": "1992-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/113.1",
      "sha256": "56b20999116eeed10dcec6fff87625e5db4d00eb6a589538cec804e6f462d41c"
@@ -55,6 +70,9 @@
    "versions": [
     {
      "from": "1992-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/113.2",
      "sha256": "40f6c6dfa346847260f3740464845e79856bfb260584ba7cf13ee6db6bc9919d"
@@ -69,12 +87,18 @@
    "versions": [
     {
      "from": "2002-01-01",
+     "to": "2019-05-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/121.1/versions/76",
      "sha256": "4dcefee0922ef3f27f5c5da066dd7e5e8e60e68e0d0cd3d7d175b121a68dc93f"
     },
     {
      "from": "2019-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/121.1",
      "sha256": "eb43180fa07de28ee9340fe27981c5a6cf98026cafb0186e687686bb595fbcc4"
@@ -89,13 +113,19 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2026-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/123.1/versions/473",
      "sha256": "3a585fb083f50248c08888b4549c6412eb33388692528aaf1033c2a5f155d4c9"
     },
     {
      "from": "2026-05-01",
-     "units": 28,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 29,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/123.1",
      "sha256": "3bb6c698613e3172352e18ec126994d78bcf816c7cb343825671f68d45abd182"
     }
@@ -109,12 +139,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2022-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/125.1/versions/474",
      "sha256": "5d304cda7faed7ceb90b40c0c3bc8e378de5098843f1548b5ca70a0e2fc5c409"
     },
     {
      "from": "2022-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/125.1",
      "sha256": "71c0e2f04915e0c76932244284aa7f08581c9f07e737c6e3b39678d585d1c2a0"
@@ -129,12 +165,18 @@
    "versions": [
     {
      "from": "2005-07-01",
+     "to": "2025-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.1/versions/475",
      "sha256": "0a1bd68386c4d1cddc5b6d1a44076004540840a8a98546946a752169322538a8"
     },
     {
      "from": "2025-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.1",
      "sha256": "ab40f5204cb94613d677d2bfdd89725823924101a36ebbb65416dfc1ea76e4d9"
@@ -149,6 +191,9 @@
    "versions": [
     {
      "from": "2025-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.11",
      "sha256": "a6b8ec1d1b44c16fb42ecf0d114510f356aa2465cf11f3d483af266d6b048d1d"
@@ -163,6 +208,9 @@
    "versions": [
     {
      "from": "2025-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/127.12",
      "sha256": "1661e1447c1e6b72d3fd6077d1a8233d41262efecf4d151ff702d9f571941d24"
@@ -177,12 +225,18 @@
    "versions": [
     {
      "from": "2009-01-01",
+     "to": "2024-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.1/versions/476",
      "sha256": "ec7806952c477f37c66b9a82ee778002813b83453d2d1aaceff22de4921069df"
     },
     {
      "from": "2024-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.1",
      "sha256": "4c130a2452d1f3cd0d5c444b52799065f436d4e5ea676c6f1f859dc8da99483b"
@@ -197,6 +251,9 @@
    "versions": [
     {
      "from": "2007-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.2",
      "sha256": "53963b4ba32f9ed446481f8a23459d96ad2a0cbf6f59874004c9a906dbd87536"
@@ -211,6 +268,9 @@
    "versions": [
     {
      "from": "2024-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.3",
      "sha256": "660d1e7d3592457eb620f0880f6742e10f1afa700c2ab3ab90c28f4e35d305bb"
@@ -225,6 +285,9 @@
    "versions": [
     {
      "from": "2024-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/131.31",
      "sha256": "c98679eeb9f6c3e6676947ea30180a71dc14d35efc2438bbeb42394938fe26ca"
@@ -239,12 +302,18 @@
    "versions": [
     {
      "from": "2007-07-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/141.1/versions/336",
      "sha256": "1d90caf975b5d0c7e27d7fef88f2aaf0665c4e3a71876bfdd631c3f42ffbfac0"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/141.1",
      "sha256": "027e3a4671217d4b7e2191333c4c751050d57d7e06726d2b82f2ba6eec12a092"
@@ -259,19 +328,28 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 115,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1/versions/205",
      "sha256": "2370395c67fee547b8f7ffa653f2f8d88669e1b502056bfff68f1c58d48f1212"
     },
     {
      "from": "2021-01-01",
+     "to": "2025-10-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 115,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1/versions/480",
      "sha256": "618414ffcde1e492705e170cef207ba7eb85b97b8cde0094f198a8fffc8041e2"
     },
     {
      "from": "2025-11-01",
-     "units": 118,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 119,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.1",
      "sha256": "f20bbb385350436e2b02aec5cee897fb01ecfbd7764e40fad826a182acb2a0be"
     }
@@ -285,13 +363,19 @@
    "versions": [
     {
      "from": "2021-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.11/versions/481",
      "sha256": "3fc2b6545b025d987a9d3077669f4b69863e805b4893cc2ac186511c0b0f9197"
     },
     {
      "from": "2023-01-01",
-     "units": 13,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/151.11",
      "sha256": "3f4d922e8c62f9a722c8f201a0c5c7b982b3ba39162fecbce4fcf0e30932e715"
     }
@@ -305,6 +389,9 @@
    "versions": [
     {
      "from": "2018-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/161.1",
      "sha256": "2e82fab4fdf9cb5766e283585c0c36fac3cb1d8ad7d76c5a484710fa0014de83"
@@ -319,42 +406,63 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2019-11-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/687",
      "sha256": "fbab0b6b463a3e7fc4b5c7a655ef81f785d297b54db200d00d821d9ccbe121d0"
     },
     {
      "from": "2019-12-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/688",
      "sha256": "9fe5356cdb99a6168da1d27be1e6402ca16d1d113ceeea605f1c9cd5e2754467"
     },
     {
      "from": "2020-01-01",
+     "to": "2022-11-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/691",
      "sha256": "f6d837d68876dc7c172254563ec17e1f91ad42924a11df2919a58542e1a0b943"
     },
     {
      "from": "2022-12-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/692",
      "sha256": "4e8939a99fefe09154cafb2f143cd60a0256c467a56b2d8978211129199d8274"
     },
     {
      "from": "2024-01-01",
+     "to": "2025-05-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/757",
      "sha256": "2e8b200715120a932af2668aab84db8846cf7c59fd20f3c5154d7e7e6ad06369"
     },
     {
      "from": "2025-06-01",
+     "to": "2026-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1/versions/867",
      "sha256": "ed622756e0d56d42c10e86814d40dbd71c37619475fda334a9722465f5cb95e8"
     },
     {
      "from": "2026-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.1",
      "sha256": "ebaa2a4e567c472f0ad044bcd15061111d5d968b14d4ed3b96d3f1c796f2155c"
@@ -369,6 +477,9 @@
    "versions": [
     {
      "from": "2005-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/173.4",
      "sha256": "b02ff9f09c7f69ab21b0d4e217f99ba69efcdb71a2bd7f63acf211b79fc6c701"
@@ -383,12 +494,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.1/versions/431",
      "sha256": "35441eeba25484f82f51b1a6f1b9159aa42ea95012a0f2c775c513cf388f826b"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.1",
      "sha256": "8cba7a25c421c22bfce9584c34bf7b3d6aebd08dc31e5d05c2af1c8914888fbc"
@@ -403,13 +520,19 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2026-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.2/versions/488",
      "sha256": "ce1bba719d4daeae51b1e4b34dc67cd5a63bcfd11918d944d9af0ca5e02d60ce"
     },
     {
      "from": "2026-05-01",
-     "units": 40,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 41,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.2",
      "sha256": "60229adff8705e6c1345b569d2b7a15a0d131c4537d866eea479e5b1960b09a6"
     }
@@ -423,6 +546,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.3",
      "sha256": "2f3a82d6cab2badce93c3857b7b9654b62ed655ed5d660674b2e54931f44b1f5"
@@ -437,19 +563,28 @@
    "versions": [
     {
      "from": "2021-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5/versions/490",
      "sha256": "e2db5e5ed82b09818852692a7d863da5a027e1eda8d2457ff5e218cf43b2a9ff"
     },
     {
      "from": "2024-01-01",
+     "to": "2026-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5/versions/786",
      "sha256": "c2605679420ae7b0a722126a905a824fa2e2c8ff02decb58933379fa81053b09"
     },
     {
      "from": "2026-08-01",
-     "units": 13,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 15,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.5",
      "sha256": "1e58ad2850eeacab07de8ef9f37c5ecbb5a0fca378a4bf9a4149d88da8da609f"
     }
@@ -463,6 +598,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.8",
      "sha256": "3eb5066aa2a1657283ea2349c80a4dcccec2739ac8328f64978177d38d31f86a"
@@ -477,6 +615,9 @@
    "versions": [
     {
      "from": "2016-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/181.81",
      "sha256": "0ed858ba9adddec64e7df1e451c6f6f5ac9d209d12db231e1c6d44ecbf7372c8"
@@ -491,24 +632,36 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/168",
      "sha256": "3f6a49ec26083b07d56eff3438ef7143e5dbe506b0650e151bf374d98eebf944"
     },
     {
      "from": "2020-01-01",
+     "to": "2024-01-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/494",
      "sha256": "c6c01bdcab44b6f846e2e3346131a61585fc2b53b76f0e1c428ffe843e1d7c8c"
     },
     {
      "from": "2024-02-01",
+     "to": "2026-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1/versions/779",
      "sha256": "e4a17abdcad6ae7564bcc0d448958444518dd352cd1bd1d854cfc01747b5a7c9"
     },
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.1",
      "sha256": "507f21771392406fae7a8acdd373468971615f66e2c60a811be36c02f842ea81"
@@ -523,30 +676,45 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/91",
      "sha256": "2590dc7a4f006b3065d551e46284fd3daecfdcaf019320a6e7970ca09744c635"
     },
     {
      "from": "2020-01-01",
+     "to": "2024-01-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/495",
      "sha256": "17583330f979c4710bd76225d4d571702638c81ffabbcde08fc21048c2e2aec0"
     },
     {
      "from": "2024-02-01",
+     "to": "2026-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/780",
      "sha256": "1cf31f729af9b2a05104ae90acc197d3e05b3c7ae913704bcf9045a1db7e748f"
     },
     {
      "from": "2026-05-01",
+     "to": "2026-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3/versions/923",
      "sha256": "fe5095f051aa8582bacf1094f473031a6c299d869c9d788bf56238ca9ee73073"
     },
     {
      "from": "2026-09-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/183.3",
      "sha256": "240457c7699f0bbe4bf1683a0f631e7b1ecea236d456e865d774fe770acecd44"
@@ -561,37 +729,55 @@
    "versions": [
     {
      "from": "2019-01-01",
+     "to": "2019-06-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 89,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/240",
      "sha256": "153a929e56987a634432763f9bceb82290aebf5aadb5523a92205cd99e71bea8"
     },
     {
      "from": "2019-07-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/255",
      "sha256": "7bacc3cc400122925a587c69988dcde01a970642ab4e23ab0baf7ffeb4daa68a"
     },
     {
      "from": "2022-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/660",
      "sha256": "ed6d58caed717d5f2c78b3042fa465c4622032edac7de5b10b3b753b8ac7777f"
     },
     {
      "from": "2023-01-01",
+     "to": "2024-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 95,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/698",
      "sha256": "b65366dd93788ee8bac904ce5134e7d6171ddb45e7a97c07ccdf3119a76b04ab"
     },
     {
      "from": "2024-04-01",
+     "to": "2025-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 97,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1/versions/797",
      "sha256": "546c7fe0f3a99fa6411d3db1d5a8e728b2f2bb772a23391274883216efca1d20"
     },
     {
      "from": "2025-09-01",
-     "units": 98,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 99,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.1",
      "sha256": "62ebd5744e239f07a55fff734a657237137e5f5e61bb9e96297da5a4ad7264be"
     }
@@ -605,6 +791,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.7",
      "sha256": "8e9d372aaca4f7d7c2c4494c06cc5df06253c55ebda0b21231e06c0f767d31f2"
@@ -619,6 +808,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.8",
      "sha256": "204f1300129b2ea0015d950f3c1f4bd580fb1ce21a6481796583dafcaaae0378"
@@ -633,49 +825,73 @@
    "versions": [
     {
      "from": "2019-01-01",
+     "to": "2020-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 83,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/298",
      "sha256": "853b2a3524b00298841232449bfcdbcc4f93924808a3d663218e89faa4102ec5"
     },
     {
      "from": "2020-09-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 84,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/426",
      "sha256": "43065225d1eb49d0a36162f69814fb5b72975cb0f423a20da62a0cebdd1f2cd8"
     },
     {
      "from": "2021-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 84,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/496",
      "sha256": "6568b6b048de605bbfafaacc14ed7f21f736b747886e036897b926fd0c9c09dc"
     },
     {
      "from": "2023-01-01",
+     "to": "2023-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 84,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/711",
      "sha256": "4ed2824ed4b571e1037bf6f45d7b153acac5dd44342ab484a83f382f0e14817c"
     },
     {
      "from": "2023-04-01",
+     "to": "2024-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 84,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/718",
      "sha256": "6df76bc6d78b595dd86b4bdf35d0fa704a9f66125c578bd8c1b06a7acee4c361"
     },
     {
      "from": "2024-04-01",
+     "to": "2025-08-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 87,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/791",
      "sha256": "9e33a49da6bbf93062c2dd262be96f4379e884288a110ce6f8467661d7bcf227"
     },
     {
      "from": "2025-09-01",
+     "to": "2026-04-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 88,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11/versions/889",
      "sha256": "a0eecfcb959c6cc7e582aa6fd1429e14f339f0672ba866c3600257d0b4e5daa9"
     },
     {
      "from": "2026-05-01",
-     "units": 89,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 93,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.11",
      "sha256": "47599c3c2f293dafa914af8b5c3538e43a19825485e168f4391a79c5398d9694"
     }
@@ -689,15 +905,30 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": "2020-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.112/versions/192",
      "sha256": "1e2d89d83768e6abe74a87d559d5c864451fb6df8fc31187a12b89090496092a"
     },
     {
      "from": "2020-04-01",
+     "to": "2025-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.112/versions/497",
      "sha256": "714c03029baab42f6c4d79ff37033c7295c401b209ca139c9bbb2a69fbd4f0eb"
+    },
+    {
+     "from": "2025-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.112",
+     "sha256": "9fa70aeb09169a1e31dcf69e6e2bb8101815c335b43051a57e20326010a6aefd"
     }
    ]
   },
@@ -709,6 +940,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.122",
      "sha256": "dd53254088c66f0de1a6d6be7ee06ec7fd0933361b99696eb2f8ea08a8265258"
@@ -723,6 +957,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.123",
      "sha256": "985e2926d8d2799c98890204b96eb386f4e9f338337dae98706b860de90af39f"
@@ -737,24 +974,36 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 61,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/663",
      "sha256": "0a981b0042844f03f3aa37ed700d90533caafbc6aa7f1491eb3f22d8e9a76089"
     },
     {
      "from": "2023-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 61,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/697",
      "sha256": "131ffdd2145de78332d373d8b5c073b91cf771b1242bcd95003b2a02c50bebb4"
     },
     {
      "from": "2024-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 61,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124/versions/739",
      "sha256": "b9fc8c52cf78fcd1f67a92be99c713c0e1e2b11332b8f676751acbf1402d11ef"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 59,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.124",
      "sha256": "d2e03d9b01898d79e3aed620acd418ed7a8c47343882c3070d2670de8215448e"
@@ -769,7 +1018,10 @@
    "versions": [
     {
      "from": "2018-01-01",
-     "units": 24,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.125",
      "sha256": "8b74424664d6642a3f3a58cba13888dd0571aae60f3367ba5780e006617b6eb0"
     }
@@ -783,6 +1035,9 @@
    "versions": [
     {
      "from": "2015-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.126",
      "sha256": "da52d059d30334ec7df18feb207c026543d3994252b3d18616fb9ade0d89b809"
@@ -797,6 +1052,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/191.127",
      "sha256": "e19bd844235a221a920b77496091b04a030e5a40175c08d3ed86e109b5072981"
@@ -811,12 +1069,18 @@
    "versions": [
     {
      "from": "2007-08-01",
+     "to": "2024-01-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.1/versions/504",
      "sha256": "eff78deeebf03935b008defbf768c20b7c49c59980b2e36d43b9ce7e88aeb420"
     },
     {
      "from": "2024-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.1",
      "sha256": "9d5025541ad64379d9d0520e703be11e249f15e02afa687f7d99302cc48affcf"
@@ -831,18 +1095,27 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": "2021-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3/versions/348",
      "sha256": "0f233baf30e085dbd4459f153ab74d981433bb38a14b94ab7bf472dc0ced0355"
     },
     {
      "from": "2021-08-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3/versions/505",
      "sha256": "ba24b60884ffbd5f12a03ee37391785134592a91401073e8c64503ae3776aac1"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/192.3",
      "sha256": "48be644185057e375150aebb9a94bff372fe9cd3f114e9115366c85496df8da5"
@@ -857,13 +1130,19 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/194.1/versions/469",
      "sha256": "c22b6814bcc9fe05f9022608ba9f681516b4e0c1ff065fe5be991612304dc37e"
     },
     {
      "from": "2022-01-01",
-     "units": 31,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 33,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/194.1",
      "sha256": "b7254e03c3c2374987a00d5b04a21b08eb5afbf18e7088f42e6699efdc590b45"
     }
@@ -877,12 +1156,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 38,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/196.1/versions/87",
      "sha256": "b653e58aa15e2097bff981309c9c85828af953445d55b5cc84278f74029a49fe"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/196.1",
      "sha256": "5e7c87498afe7d71293599a868dfb8583860ebc9719a40870547a743ad88f098"
@@ -897,12 +1182,18 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": "2020-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 44,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.1/versions/81",
      "sha256": "4e95d9d5c211d90ed4b8d3d4f8155b83a6093d2f935cd4b8c5df5c2c606f3bda"
     },
     {
      "from": "2020-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 44,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.1",
      "sha256": "91995a81f0812b4d2352bb95341957edd935b9685c1be3966060c2a6c8c6aece"
@@ -917,12 +1208,18 @@
    "versions": [
     {
      "from": "2017-08-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.13/versions/509",
      "sha256": "6a7dc38bcaff31140786482b859419a21fd559a905657a9457f3e6fbd6f28f48"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.13",
      "sha256": "1da45e759dd755106c36e5f2712df06940d897014f89002b8528b51f0d4869e0"
@@ -937,12 +1234,18 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.14/versions/511",
      "sha256": "5a8f008646924c3cde4aeed177e7604282dc694486dff05216f8a3d72efebd76"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.14",
      "sha256": "ec2f74967f1953e059e0f60fb37c0e10698adeba70e5486f249b7dc101730ce5"
@@ -957,18 +1260,27 @@
    "versions": [
     {
      "from": "2010-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33/versions/512",
      "sha256": "c876b4de177eb88621c9a38571fe1d0bd7ec3abeebd34f1c1a29a573bfe2f101"
     },
     {
      "from": "2023-01-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33/versions/708",
      "sha256": "a24cf35dc890bfd8f49e08f8460b9a1e9884c11732c0057358eb2771fa0f2ab0"
     },
     {
      "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.33",
      "sha256": "e0fd42fe99832b66703b5d4e3f1a09578bb5e9b730dcd6bf0ae070d35cc607c9"
@@ -983,6 +1295,9 @@
    "versions": [
     {
      "from": "2018-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.41",
      "sha256": "101084f9c0f53b92d7fb767eb0e8a1dd42a0af356bcf6eb458195c16849f2b70"
@@ -997,6 +1312,9 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.51",
      "sha256": "afb8f1956589d92bb47d47bc53b24ee256fcadb700a06a1deca08350e206f5cf"
@@ -1011,12 +1329,18 @@
    "versions": [
     {
      "from": "2017-10-01",
+     "to": "2019-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.73/versions/43",
      "sha256": "2f90aca5044f4d8dd9cdb742a2b47fd1ad415f23a2913a71dba9b0c4adb402da"
     },
     {
      "from": "2019-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.73",
      "sha256": "af23ffdd6c1aeafb68f8530c7f67ce71a3fa9ce4bfe31086c9859be1de099cd6"
@@ -1031,6 +1355,9 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.74",
      "sha256": "dc04250c94aaf4cbb28bf9d67726efd9e2ad52da9e531467e07ce6e5150243bd"
@@ -1045,6 +1372,9 @@
    "versions": [
     {
      "from": "2017-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.75",
      "sha256": "d60c1f2e22b15fe34cbc2597e444442b12c926ab63a46cff122962e78e307018"
@@ -1059,30 +1389,45 @@
    "versions": [
     {
      "from": "2018-08-01",
+     "to": "2019-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/206",
      "sha256": "cc65e61bc53040c7d636891d2c921ac8d12c4a0e60d66e5f853a78b3c2e029f9"
     },
     {
      "from": "2019-08-01",
+     "to": "2020-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/234",
      "sha256": "9b678f0b144a1c759e28d0640cf1da5516d8c569af9060424ddbe842488be9e7"
     },
     {
      "from": "2020-08-01",
+     "to": "2021-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/327",
      "sha256": "1f6d2ab2fc3e8f3dd7d6e0dd2fc16c11ef42932f5b647a01e3361d02cd5909e4"
     },
     {
      "from": "2021-08-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511/versions/515",
      "sha256": "eb153984aedfc2995e81a6360efd12b9130730456bff399dc83e652f69a772b8"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/211.511",
      "sha256": "878c5d335ed1e44135a67ac511abfe9bddfc37644d311b4a2867df9846c1a13b"
@@ -1097,24 +1442,36 @@
    "versions": [
     {
      "from": "2015-01-01",
+     "to": "2019-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/165",
      "sha256": "4aabc9f6db3f41981abfd9c90bdc3f823d28c2bde99c0335c31deb92136c52cf"
     },
     {
      "from": "2019-08-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/235",
      "sha256": "a91f9c525382f76049a064fa4fd53b1c1e00c2ed502f983a52ca3f2b9f92ce79"
     },
     {
      "from": "2021-04-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1/versions/521",
      "sha256": "f2a5166dc86bd3c14cc15bc93d052717b1d414200a9893fa53554fd266be4748"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.1",
      "sha256": "95416383e473a99063dcec310d02046eb48168beaddf737c51778dc9c6fc4e96"
@@ -1129,18 +1486,27 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": "2021-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3/versions/45",
      "sha256": "63f857712b4c0aac42d1888eaeedae418b5b3ee84cbe9c8facdb20830e84bedc"
     },
     {
      "from": "2021-08-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3/versions/523",
      "sha256": "013c4848c16a2f948b0e6151b5b439ce4f8d2bb6d729c7256b5e83de6b2dfba2"
     },
     {
      "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.3",
      "sha256": "57a8503d255da3c2525ef4401feba685443af9f2a278fe1aae304520c04ccbea"
@@ -1155,12 +1521,18 @@
    "versions": [
     {
      "from": "2017-07-01",
+     "to": "2023-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.5/versions/524",
      "sha256": "e7640b97b7300ac34f84cfae0be7d825469b885fcad4771b430c9bf07adee150"
     },
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.5",
      "sha256": "e673dee4a532ed80a4795e861c713e484ff3e630cf9a204211c6a34c05180dd3"
@@ -1175,12 +1547,18 @@
    "versions": [
     {
      "from": "2017-11-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.6/versions/525",
      "sha256": "92dc6198bf5d802ccef8117b8ce450bbe53bb466e86f98dd8ac6b7bfdd2b767d"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.6",
      "sha256": "b85eb87fced846f541e58a4dd969318829426f20c282896ba9111a48acc9c891"
@@ -1195,13 +1573,19 @@
    "versions": [
     {
      "from": "2015-01-01",
+     "to": "2019-07-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.11/versions/180",
      "sha256": "c46d32a56a21e7fd7cb7d371e89c43ae0bdf4d9288e1322e79e231da219eeaac"
     },
     {
      "from": "2019-08-01",
-     "units": 2,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.11",
      "sha256": "f3ed2da6b27afad51e45116d624f66d81489374b7ef3ec094e3d923dcf3bc1be"
     }
@@ -1215,6 +1599,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/216.51",
      "sha256": "d112c7f10241cce43699171af07736ad61a9bbffa34f5d1b4ac9533d76f82697"
@@ -1229,7 +1616,10 @@
    "versions": [
     {
      "from": "2018-01-01",
-     "units": 8,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.11",
      "sha256": "794c183459beb2d4c2859dd46e1039aaea5cc392be63e38c9e8d0316e745cba1"
     }
@@ -1243,19 +1633,28 @@
    "versions": [
     {
      "from": "2019-08-01",
+     "to": "2021-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12/versions/354",
      "sha256": "bb2b6b1b3146e028a9c28c4ba01fab2fce2e94d6cf67bc8421ea5dcb8fd9f99a"
     },
     {
      "from": "2021-04-01",
+     "to": "2024-05-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12/versions/527",
      "sha256": "6f8952fce3b1b63dcd668bf5a171d13053c5f80b675591be05f1576b9e4816f2"
     },
     {
      "from": "2024-06-01",
-     "units": 15,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/218.12",
      "sha256": "54ee44c88c5588b4bd852a5302ef7e214222cd6533e7840709f9123b8bfd4bb9"
     }
@@ -1269,6 +1668,9 @@
    "versions": [
     {
      "from": "2017-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/231.1",
      "sha256": "cedca36c4d52556944694d087beca5981c1df58e993c52d9d8610e9dade162cf"
@@ -1283,6 +1685,9 @@
    "versions": [
     {
      "from": "2017-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/231.11",
      "sha256": "b2b29e6335bb0944aee335f26e9b4d56c1d73a69e9f0d42876e3555ef0d6b2a7"
@@ -1297,12 +1702,18 @@
    "versions": [
     {
      "from": "1995-10-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 16,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.1/versions/530",
      "sha256": "5bc564db26c352907708b72cdc169a125d18ae430358b4621aa81dd05cae22e9"
     },
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.1",
      "sha256": "288ee31735b221d142bb2624f84a521c71284e55f3eb00b48f8306f9f4400e1c"
@@ -1317,6 +1728,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.2",
      "sha256": "cd6f4c74376133d79613ec2161fe1024d9c72476fedcb57bd9cba3557da63aff"
@@ -1331,12 +1745,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2023-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.3/versions/531",
      "sha256": "ee3d758756cee55b20f5fff41da32b28217e29ead0d3650f3c8b1e2966e3898a"
     },
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.3",
      "sha256": "994619c30c87f20b4b82e936ffabf6aa4c281707c7db754a166a866c3671d20c"
@@ -1351,6 +1771,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.4",
      "sha256": "fd403c8a9d96b40eff56044869b1ae5224c46678a191ca27de22b9e715c59089"
@@ -1365,12 +1788,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.5/versions/532",
      "sha256": "e7def2eae99f9518686c316820ce0cf63bc7301cfef5e2f164ea51b3057a08c6"
     },
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.5",
      "sha256": "69e3879deec66dd1668cd2a47d3645837eddd732910973515a112096e9762110"
@@ -1385,6 +1814,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.6",
      "sha256": "1ba9274f41ad8b22485e9cdd240ebb9ea95103a4bd46728d5976ae28ac33b84d"
@@ -1399,6 +1831,9 @@
    "versions": [
     {
      "from": "2012-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.8",
      "sha256": "d3d817210cfdf3aea7e5b9714d247e01f6f7019e7b545233408252ce47ac328d"
@@ -1413,6 +1848,9 @@
    "versions": [
     {
      "from": "2016-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/251.81",
      "sha256": "239258c5d7ccb5b4f0e4d1bf74c1c7da05e11cabb1e96f3c541efbec72eb1686"
@@ -1427,12 +1865,18 @@
    "versions": [
     {
      "from": "2020-08-01",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.1/versions/536",
      "sha256": "575d5a36d1e8c846bba1897931d8ddcc1027d6f80ebd47032d42a33bba22c9f0"
     },
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.1",
      "sha256": "62304410242e85d36fb64033d536912ea6edcd7f182bedd68c3bc239cefb3bb8"
@@ -1447,6 +1891,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 35,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.11",
      "sha256": "5904c6e12c2d95c916afb6940e6d900a1e0b085f1f75120eb9b891620b507488"
@@ -1461,7 +1908,10 @@
    "versions": [
     {
      "from": "2023-10-01",
-     "units": 34,
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 37,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/271.111",
      "sha256": "467fe68b185ba9ae2a66c33e215b7dc85689ce0760218ce8a6b7ebb6721bc3fd"
     }
@@ -1475,6 +1925,9 @@
    "versions": [
     {
      "from": "2022-02-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.2",
      "sha256": "6b18c97ddafa7e843af4c67c1e093c311f635705cbb11c0474a08af625b997dd"
@@ -1489,6 +1942,9 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.5",
      "sha256": "f513ce84a308519cdae1c3e6f72c49b9ee902faf271246fb8cb6c6d1ad7210f7"
@@ -1503,18 +1959,27 @@
    "versions": [
     {
      "from": "1998-07-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9/versions/549",
      "sha256": "e7a18fabff50c5d0a2efe3a75a3a8015fde0728f42a6eab9641b9bd658571460"
     },
     {
      "from": "2022-06-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9/versions/671",
      "sha256": "61f20c2f1f35b124b1309a3beb74955cf0f9cb47902c250b7fcf8a481ecca845"
     },
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.9",
      "sha256": "27aaad66923e9169cf85232ec39bd26c6b71dd0b852843fcc286eed41b0c36e2"
@@ -1529,6 +1994,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.11",
      "sha256": "0e7f4a0c495f7b4154a4253802ea5276025f07dc822b5e163089ac0fc1512919"
@@ -1543,6 +2011,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.12",
      "sha256": "eafe88ed45a6d9801c117ae0d9d04092c26c9df6ffb22f12547e34001fb2a054"
@@ -1557,12 +2028,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2024-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.13/versions/54",
      "sha256": "48f36f4ed6c28c3ebdd5d2a67a653300d9784215a5375fbe36cffdffa33e1ac3"
     },
     {
      "from": "2024-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.13",
      "sha256": "5d8f7c8ff3d989fe02f1b14966a14229d63369bbf021a3c06261677bb8983662"
@@ -1577,6 +2054,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.14",
      "sha256": "1775c3dfc916c927a8f48279fe50e5df4689b82be5a90dc7d9422cf0743e9e9d"
@@ -1591,6 +2071,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.15",
      "sha256": "ef0bab445dd002e54c29e8a44da795d4c143969f9a5ddfe6167b9b38c76b51dc"
@@ -1605,6 +2088,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.16",
      "sha256": "7673908daa6bf99c9e3dfd67c1d63517a57574a629ae78521344c4125a85a031"
@@ -1619,6 +2105,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.17",
      "sha256": "74d6697dcd12584df75766f3b84cfd365ae0f304e322a5158abbdc06ba37b839"
@@ -1633,6 +2122,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.18",
      "sha256": "fe617b4eb1235c0361b4d659a71545bd9cfa58728f3f10194435241366f8e439"
@@ -1647,6 +2139,9 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.19",
      "sha256": "18f15d10b47f282cabf60a9d6a06033ac4b42de9f00d3e977e5d2e9f48011ee0"
@@ -1661,12 +2156,18 @@
    "versions": [
     {
      "from": "1999-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.93/versions/554",
      "sha256": "4eda1b395882b321337022242e55ecc46e412bd5414bb62c003a1c0cf6eaf089"
     },
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.93",
      "sha256": "36e6aa3138d5657c9e03ce4bf05c303cbb3a8fd704ed3dd57e04c19b1f983945"
@@ -1681,12 +2182,18 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.931/versions/555",
      "sha256": "a98a8733d209789968d416afb04c39ed38594f1f71eecbedf3fef6b79af7319a"
     },
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/321.931",
      "sha256": "cf5c3aa1800ef35c42b7b520c23a1068f97c5492f5fe0f7a819ea99d06790a26"
@@ -1701,12 +2208,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/331.1/versions/556",
      "sha256": "d68b137ddafd4cd4682d3adfec7e792f6c31969b41a6e2f82997fde756327932"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/331.1",
      "sha256": "7a319737fc07ec743c1ad4f82bf5ed57b32c577e009704ef77f449edbc0652cd"
@@ -1721,25 +2234,37 @@
    "versions": [
     {
      "from": "2005-04-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/182",
      "sha256": "086c5734c7c5c25dec111356029030f768fb6b2c36b62805defc346b02d0b020"
     },
     {
      "from": "2020-01-01",
+     "to": "2022-03-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/562",
      "sha256": "91b5973ff79b01a0a1aeb61d3c24a629abc33042ccac2812aea55d67cad5fe4d"
     },
     {
      "from": "2022-04-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 56,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1/versions/665",
      "sha256": "aacb0e2b2535277956204eacb8fae7943b5d05f49b9e23b9ff95c498768cc93d"
     },
     {
      "from": "2023-01-01",
-     "units": 56,
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 59,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/411.1",
      "sha256": "ade5d796b2bb9c2270e931b7361fac7aa530f418db9e1fb8c4d2708037be93b8"
     }
@@ -1753,6 +2278,9 @@
    "versions": [
     {
      "from": "2014-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.1",
      "sha256": "3ea00177fb6397ef944ff1bb0f0ec0819d8e343e37d8b2eabc3a0a096a7c3aa1"
@@ -1767,18 +2295,27 @@
    "versions": [
     {
      "from": "2018-04-01",
+     "to": "2019-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2/versions/86",
      "sha256": "68dd006bd9887839012f1eac72df0b51293b7f0ec2f6feed247241afba9d36e4"
     },
     {
      "from": "2019-10-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 19,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2/versions/568",
      "sha256": "b84dbb749ae17c3fa7db7921e36646fd2f1bea3c60baa4c7e43af745c698b9f4"
     },
     {
      "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 28,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.2",
      "sha256": "c5aa6db8466fa566b6c98d7dd5f874bc15dfd25c187aaaa5790e3bd3daaeac2e"
@@ -1793,12 +2330,18 @@
    "versions": [
     {
      "from": "2007-10-01",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.4/versions/569",
      "sha256": "c8358140323435746fe2d43d784eccf25a98c621398ac9333b9c824c5b3fdac6"
     },
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.4",
      "sha256": "b79788ac1a3131f709cb0bdf4ae867ee27eb823482e9b4563f3d96becf93f4fd"
@@ -1813,12 +2356,18 @@
    "versions": [
     {
      "from": "2009-08-01",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.5/versions/570",
      "sha256": "94a702cae47b41802ceef67b812cc105baadc580fecd2c2c0a40f074a2ffa37c"
     },
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.5",
      "sha256": "2741dc500af9241272bc4867febbf796acc63ef175458892670dbd09ff2836f0"
@@ -1833,6 +2382,9 @@
    "versions": [
     {
      "from": "2017-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 22,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.6",
      "sha256": "412865e8cc0c81d3b182cabc467618ba91fe21bc2391b33a3f38f91c5c88216f"
@@ -1847,6 +2399,9 @@
    "versions": [
     {
      "from": "2001-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.7",
      "sha256": "470d89fa5d5049a81e6da80e9b35ca78ea5f18816d7f0af6c4ec924c5ccebb0a"
@@ -1861,12 +2416,18 @@
    "versions": [
     {
      "from": "2014-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.8/versions/211",
      "sha256": "1c7adf11263418e12f82009ba1c7484d698661644b524696b491c0671595ac68"
     },
     {
      "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.8",
      "sha256": "1e7df69b34e416ced569b096bd00d659e902aef4110f51b6eefaca83f193683e"
@@ -1881,12 +2442,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2020-10-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.9/versions/225",
      "sha256": "939327d2b5f21561f9166311bfcd2b447cd3b51f74de324bf9dbfc0b649d853f"
     },
     {
      "from": "2020-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.9",
      "sha256": "3fdf28d7a1259205b18761f91675fc4fe703dc2ee2c8c679fb802c0ed17a2990"
@@ -1901,18 +2468,27 @@
    "versions": [
     {
      "from": "2011-03-01",
+     "to": "2024-10-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11/versions/564",
      "sha256": "82f9f9718081e245eaf51f30104a6af407abd63c757b8e5435a9d03eef07f174"
     },
     {
      "from": "2024-11-01",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11/versions/828",
      "sha256": "80b9e0f5cb669d541f1c1742c8618362131228e5e8f8986188d04c579f9dd911"
     },
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 23,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.11",
      "sha256": "dc2b84199c3cd688b0644eb04fa1b6514d0688dc0907c2028e6a7119b7bc537c"
@@ -1927,12 +2503,18 @@
    "versions": [
     {
      "from": "2018-01-01",
+     "to": "2025-09-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.51/versions/571",
      "sha256": "6ca8eaddd4892fb39b4c501675ba3bdf59c411fe423b5039958474cc3a2253d9"
     },
     {
      "from": "2025-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.51",
      "sha256": "ed9b88ea4b40442cf7875a449ca46951b97830dc82b4ff352e592633c488e5c7"
@@ -1947,6 +2529,9 @@
    "versions": [
     {
      "from": "2015-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.111",
      "sha256": "5e6c47ca58cfef2f8f2b5382ffc62c9e601be9d6e574fdf520c5af54e3ce88a2"
@@ -1961,27 +2546,3313 @@
    "versions": [
     {
      "from": "2016-10-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/183",
      "sha256": "6f68638e7bbba2acbc469a126a9890c70ae64afe9b80d78705343325a6c4b9fd"
     },
     {
      "from": "2020-01-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/567",
      "sha256": "9c842e1b8318094cdcfb49d96a1587646dabd4b580a3ba107c744a6a620ed543"
     },
     {
      "from": "2025-07-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112/versions/855",
      "sha256": "52dca635700f1736b52a9bc00e8ecbd155748c1b6058da01fd922834e429687e"
     },
     {
      "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 25,
      "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/412.112",
      "sha256": "f4e46d70d96e063ad2ac31b591564a7724f01b12dd8b7863697ecb6340e794f8"
+    }
+   ]
+  },
+  {
+   "slug": "414-1",
+   "short": "SRS 414.1",
+   "title": "Feuerschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.1",
+     "sha256": "53ad85f86cc4a5316542f90814b8fc4576d3aae5f826cb8133e8df759f4238e0"
+    }
+   ]
+  },
+  {
+   "slug": "414-3",
+   "short": "SRS 414.3",
+   "title": "Reglement über die Organisation von Feuerwehr und Zivilschutz St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.3",
+     "sha256": "0a8227ed7a12fc23426f70cbf689b8c973a14b3841c4fea34230c35ca21bf7b3"
+    }
+   ]
+  },
+  {
+   "slug": "414-41",
+   "short": "SRS 414.41",
+   "title": "Gebührentarif für Feuerwehr und Zivilschutz",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.41",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.41",
+     "sha256": "0084cf0c47c125fed8527d8af2d1528616d0616e50f9f0513d970c27d1500ddf"
+    }
+   ]
+  },
+  {
+   "slug": "415-1",
+   "short": "SRS 415.1",
+   "title": "Friedhofreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.1",
+     "sha256": "74e19422b9f829f9399aea171e22724e079e794f8c8635f9ef6abc74fae32400"
+    }
+   ]
+  },
+  {
+   "slug": "415-11",
+   "short": "SRS 415.11",
+   "title": "Reglement über das Bestattungs- und Friedhofwesen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.11",
+     "sha256": "0647e6a7372ab1dd505225b5da73f49a80d0ab249dceac3f6d42332a65e6d2f7"
+    }
+   ]
+  },
+  {
+   "slug": "415-111",
+   "short": "SRS 415.111",
+   "title": "Gebührentarif für das Bestattungs- und Friedhofwesen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.111",
+     "sha256": "364a3097b5f91c796ac663a67b3fecdca962f8aa0a3b94ab6f581ef5e505faeb"
+    }
+   ]
+  },
+  {
+   "slug": "416-3",
+   "short": "SRS 416.3",
+   "title": "Gebührentarif für Dienstleistungen der Bevölkerungsdienste",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/416.3",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/416.3",
+     "sha256": "42737753c86ba620be95fc2e0ee3d2b2bc3954fb2dc73862272f6ffe2ce271b2"
+    }
+   ]
+  },
+  {
+   "slug": "511-1",
+   "short": "SRS 511.1",
+   "title": "Stadtwerkereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.1",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1",
+     "sha256": "91617554790b248f340d2275c48405708c53c889d98a3f24fc9fa4b7a88c20a7"
+    }
+   ]
+  },
+  {
+   "slug": "511-2",
+   "short": "SRS 511.2",
+   "title": "Energiereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.2",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.2",
+     "sha256": "f5c7a0f2a867367631e3bba35e7a1bdb7c910c35197713aa95d04d544b46d659"
+    }
+   ]
+  },
+  {
+   "slug": "511-11",
+   "short": "SRS 511.11",
+   "title": "Organisationsreglement der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.11",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.11",
+     "sha256": "ed61cd6d7f5d435f2cb9eb4ab98be4e232d44a0c379a05ff4be0e4bef5213ef5"
+    }
+   ]
+  },
+  {
+   "slug": "511-12",
+   "short": "SRS 511.12",
+   "title": "Versorgungsreglement der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.12",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12",
+     "sha256": "aaede67d5ef351e868dfc5f33c56ab32a673a843b79a474996781a9e041dd27a"
+    }
+   ]
+  },
+  {
+   "slug": "511-21",
+   "short": "SRS 511.21",
+   "title": "Energiefondsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.21",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21",
+     "sha256": "2756916d756ef54c469e5131236e3713057bb0a7ae5e918c0ed3829c1a4a7c4d"
+    }
+   ]
+  },
+  {
+   "slug": "512-1",
+   "short": "SRS 512.1",
+   "title": "Allgemeiner Gebührentarif der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.1",
+     "sha256": "f3d5e5f43fec545095973e3c3e44afaddc40bcbec67386875d5c570706dfadb5"
+    }
+   ]
+  },
+  {
+   "slug": "512-3",
+   "short": "SRS 512.3",
+   "title": "Gebührentarif der Elektrizitätsversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.3",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3",
+     "sha256": "5d0b7973e6d4364fd05021673a092cbb10ecbb1d958455fc1ff977eeb0337645"
+    }
+   ]
+  },
+  {
+   "slug": "512-5",
+   "short": "SRS 512.5",
+   "title": "Gebührentarif der Wasserversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.5",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.5",
+     "sha256": "e7e9988b6a00fa66fa7508a878c92f491f0dba29fa201c2235a2b65e8e7dd79c"
+    }
+   ]
+  },
+  {
+   "slug": "512-7",
+   "short": "SRS 512.7",
+   "title": "Gebührentarif der Gasversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.7",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7",
+     "sha256": "57b942759923db6609b2c3c3ae8b13be2c22c4e0a7ebf4f4e1299baf965c0caa"
+    }
+   ]
+  },
+  {
+   "slug": "512-9",
+   "short": "SRS 512.9",
+   "title": "Gebührentarif der Wärmeversorgung für Fernwärme und Nahwärmeverbunde",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.9",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.9",
+     "sha256": "0a91e16efa5a37780c48198bfc90a273d0920589c065e7cc0f559d2e95c77b9d"
+    }
+   ]
+  },
+  {
+   "slug": "512-12",
+   "short": "SRS 512.12",
+   "title": "Gebührentarif des Glasfasernetzes",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.12",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.12",
+     "sha256": "fcda5fd2176e976b563b159c095e9e130b490727a63ad878c88beffd41aa0cae"
+    }
+   ]
+  },
+  {
+   "slug": "512-51",
+   "short": "SRS 512.51",
+   "title": "Reglement über den Fonds Wasser-Rappen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.51",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.51",
+     "sha256": "87b679dc7d754d2de998e08fd418f421ae927e8da48aa745138513b6bdedd10e"
+    }
+   ]
+  },
+  {
+   "slug": "521-3",
+   "short": "SRS 521.3",
+   "title": "Reglement über die Verkehrsbetriebe St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/521.3",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/521.3",
+     "sha256": "46ee7f53d626c9c97e953f99566d2438b5614aebaa7ea22364453e72965202a6"
+    }
+   ]
+  },
+  {
+   "slug": "521-32",
+   "short": "SRS 521.32",
+   "title": "Verbundtarif der Verkehrsbetriebe",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/521.32",
+   "versions": [
+    {
+     "from": "2014-12-14",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/521.32",
+     "sha256": "c99cecab8156e31af8bbca8affb7be7f748c014a0baed8bc5f244dc190e32645"
+    }
+   ]
+  },
+  {
+   "slug": "531-3",
+   "short": "SRS 531.3",
+   "title": "Reglement über die nicht gewerbsmässigen Schlachtungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/531.3",
+   "versions": [
+    {
+     "from": "1992-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/531.3",
+     "sha256": "205ad386b29cf92b0f31b31ac42bffcfe11984b750e585a95565a07654c80736"
+    }
+   ]
+  },
+  {
+   "slug": "541-1",
+   "short": "SRS 541.1",
+   "title": "Abfallreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.1",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.1",
+     "sha256": "3fc54e1ec7595e2e3efb9934089afe40dede6cc00b351531a4c34f36b23c7cca"
+    }
+   ]
+  },
+  {
+   "slug": "541-11",
+   "short": "SRS 541.11",
+   "title": "Vollzugsreglement zum Abfallreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.11",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.11",
+     "sha256": "9498b3c1ceed53b68e6cc2574b5614d50e6c025a383c3c5576108db18c3ceeab"
+    }
+   ]
+  },
+  {
+   "slug": "541-111",
+   "short": "SRS 541.111",
+   "title": "Gebührentarif für die Entsorgung von Siedlungsabfällen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.111",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.111",
+     "sha256": "85f9fdb98148d09352e190d0269fa768346cee224a2c6b0ef4163f23c3e2e108"
+    }
+   ]
+  },
+  {
+   "slug": "541-112",
+   "short": "SRS 541.112",
+   "title": "Gebührentarif für das Kehrichtheizkraftwerk",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.112",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112",
+     "sha256": "f377614aab54d23dce837aa06625e4e3ef1724916548504eca674c96efcdd17b"
+    }
+   ]
+  },
+  {
+   "slug": "542-1",
+   "short": "SRS 542.1",
+   "title": "Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.1",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.1",
+     "sha256": "3a5bded282735725196887a072e4edc58002cb337d0bd83b2d719715bddb991d"
+    }
+   ]
+  },
+  {
+   "slug": "542-3",
+   "short": "SRS 542.3",
+   "title": "Gebührentarif für die Deponie",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.3",
+     "sha256": "9846a3c3b6aae2e33fb4c413804fdf6a34fdd8fcd2116d76156b067543f85fc9"
+    }
+   ]
+  },
+  {
+   "slug": "542-11",
+   "short": "SRS 542.11",
+   "title": "Vollzugsreglement zum Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.11",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.11",
+     "sha256": "8b2242b558b2a374ce3b93e2f4e26d77cfa9915e93f248f6fd10c54ae858b7dd"
+    }
+   ]
+  },
+  {
+   "slug": "543-1",
+   "short": "SRS 543.1",
+   "title": "Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.1",
+     "sha256": "3bb14b181bd409b04a215e7bb8f75670a31fa95ab379f75326c7404f02744aca"
+    }
+   ]
+  },
+  {
+   "slug": "543-11",
+   "short": "SRS 543.11",
+   "title": "Vollzugsreglement zum Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.11",
+     "sha256": "c885ff888e58f6b8a96192190e3faaf491788fe6aed62d86495e969bc0aeb556"
+    }
+   ]
+  },
+  {
+   "slug": "543-12",
+   "short": "SRS 543.12",
+   "title": "Reglement über den Fonds zur Förderung von ökologischen Massnahmen zum Gewässerschutz (Schwammstadtfonds)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.12",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.12",
+     "sha256": "a9f88005d031adf7c525a75ff96b31e07b0b85307ebc6a1881c0ea6bb1104c4b"
+    }
+   ]
+  },
+  {
+   "slug": "543-111",
+   "short": "SRS 543.111",
+   "title": "Gebührentarif zum Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.111",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.111",
+     "sha256": "5afca6b4eaf5f5db1ba3537c15f78189f3f254652fdb7a6a9863b98b20c5f191"
+    }
+   ]
+  },
+  {
+   "slug": "621-1",
+   "short": "SRS 621.1",
+   "title": "Reglement über Ruhetag und Ladenöffnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/621.1",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/621.1",
+     "sha256": "f790442d307e1ff99de17643c493fb24ee58a3b7cc9ea250f0b9087682206a2f"
+    }
+   ]
+  },
+  {
+   "slug": "621-11",
+   "short": "SRS 621.11",
+   "title": "Vollzugsreglement zum Reglement über Ruhetag und Ladenöffnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/621.11",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/621.11",
+     "sha256": "f88c9dae49aa545377eefbec74980a80f17bdd3a7b1860baafdd4d8c4e630670"
+    }
+   ]
+  },
+  {
+   "slug": "622-1",
+   "short": "SRS 622.1",
+   "title": "Gastwirtschaftsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/622.1",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/622.1",
+     "sha256": "8d1b20bc2479b45d1964691021fd96a8eb0a2f987a0d03c322f300891594326b"
+    }
+   ]
+  },
+  {
+   "slug": "623-1",
+   "short": "SRS 623.1",
+   "title": "Marktreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/623.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/623.1",
+     "sha256": "2f8c1a3899beeeb107c5f450f4acc78bda67138ee029d05fb502f62ed1baa6b9"
+    }
+   ]
+  },
+  {
+   "slug": "623-11",
+   "short": "SRS 623.11",
+   "title": "Markttarif",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/623.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/623.11",
+     "sha256": "1f57cf6b76a06124fed9d7cb7892052f8de77b35a088864592ac9c9f736706ef"
+    }
+   ]
+  },
+  {
+   "slug": "624-1",
+   "short": "SRS 624.1",
+   "title": "Gasttaxenreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/624.1",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/624.1",
+     "sha256": "712cc15517c5372cf8e2704b8f735c47be84adfcb493f77af68bfefd164a5c78"
+    }
+   ]
+  },
+  {
+   "slug": "624-11",
+   "short": "SRS 624.11",
+   "title": "Vollzugsreglement zum Gasttaxenreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/624.11",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/624.11",
+     "sha256": "9f5ed911fbc89f0c75f48262b638e17dae2415ce2904ecaabe9b017cc2e45e76"
+    }
+   ]
+  },
+  {
+   "slug": "711-3",
+   "short": "SRS 711.3",
+   "title": "Reglement für eine nachhaltige Verkehrsentwicklung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.3",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.3",
+     "sha256": "626806cfd41ecbd47e8edb700c47391a3b58abfa9e280f42983b888ac3bb7c48"
+    }
+   ]
+  },
+  {
+   "slug": "711-7",
+   "short": "SRS 711.7",
+   "title": "Reglement über Ausnahmebewilligungen im Strassenverkehr",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.7",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.7",
+     "sha256": "4a0bcdc8934c5d4a33497f0226bfde7110745e42439fe55715be293691b00670"
+    }
+   ]
+  },
+  {
+   "slug": "711-71",
+   "short": "SRS 711.71",
+   "title": "Gebührentarif über Ausnahmebewilligungen im Strassenverkehr",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.71",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.71",
+     "sha256": "7e4df012ef11f1ba8059131bae283a33a94158ab95ad852915c9765c4520f5c9"
+    }
+   ]
+  },
+  {
+   "slug": "712-1",
+   "short": "SRS 712.1",
+   "title": "Reglement über das Parkieren auf Liegenschaften des Verwaltungsvermögens",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.1",
+     "sha256": "f3df47b8a800c08f978a2f752ff1330a11d469d3963bfe7343494b9cab7d1ad0"
+    }
+   ]
+  },
+  {
+   "slug": "712-2",
+   "short": "SRS 712.2",
+   "title": "Reglement über das Parkieren auf öffentlichem Grund",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.2",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.2",
+     "sha256": "d3936b799d06fd3e752a89f069256fe5102d95fd6df100546d0f7fc8c5b3d69c"
+    }
+   ]
+  },
+  {
+   "slug": "712-21",
+   "short": "SRS 712.21",
+   "title": "Vollzugsreglement zum Parkierreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.21",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.21",
+     "sha256": "e979e769e3a7d6ca72b2b0019c95aed49cd69352eda00fa63c4038349da31623"
+    }
+   ]
+  },
+  {
+   "slug": "712-22",
+   "short": "SRS 712.22",
+   "title": "Parkiergebührentarif",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.22",
+   "versions": [
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.22",
+     "sha256": "7aaede1d91a30a96c5ed27864a5c5a3770e94a827218f11f8c9d66b611f0ec97"
+    }
+   ]
+  },
+  {
+   "slug": "713-1",
+   "short": "SRS 713.1",
+   "title": "Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.1",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.1",
+     "sha256": "454c50ab434f7df2be75231b202465830e2de4505900d7b6b70df2b49de5ffbd"
+    }
+   ]
+  },
+  {
+   "slug": "713-11",
+   "short": "SRS 713.11",
+   "title": "Vollzugsreglement zum Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.11",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.11",
+     "sha256": "239f717347dd3bb271b5036abd1bdc145fb7e899ea97fbe8b93b4cf25afe2d4f"
+    }
+   ]
+  },
+  {
+   "slug": "713-112",
+   "short": "SRS 713.112",
+   "title": "Gebührentarif betreffend das Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.112",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.112",
+     "sha256": "8daf58a10d6f9cc8145cd48b5d3a3344009d3b2eb181117d380be65a04c735b8"
+    }
+   ]
+  },
+  {
+   "slug": "731-1",
+   "short": "SRS 731.1",
+   "title": "Bauordnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.1",
+     "sha256": "60c5cc49fe1572e8f3424b2081ef7b4d2f971e6c2aea242565c180f3a4ee742b"
+    }
+   ]
+  },
+  {
+   "slug": "731-2",
+   "short": "SRS 731.2",
+   "title": "Reklamereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.2",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.2",
+     "sha256": "0eebf338a275b20a0f16769fcdf13d4561c171ec1c013850dbf8ce517a791875"
+    }
+   ]
+  },
+  {
+   "slug": "731-3",
+   "short": "SRS 731.3",
+   "title": "Reglement über die Finanzierung der Altstadt-, Ortsbild- und Denkmalpflege",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.3",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.3",
+     "sha256": "a83676af45cb0226a632abe43a81fdfdf56c9c6c5e6be4d01317e0a54309d162"
+    }
+   ]
+  },
+  {
+   "slug": "731-4",
+   "short": "SRS 731.4",
+   "title": "Planungsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.4",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.4",
+     "sha256": "1fb09280bf5c93b1eeb1e155a505e6c189828661df0fed30efe094fd01f908b4"
+    }
+   ]
+  },
+  {
+   "slug": "731-8",
+   "short": "SRS 731.8",
+   "title": "Sonderbauvorschriften / Schutzverordnungen / Strassenplan",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.8",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.8",
+     "sha256": "45776681be5ad0edc0cef1aa5aeb8f91b6a3d7b6649bd075afbbc787386f0968"
+    }
+   ]
+  },
+  {
+   "slug": "731-9",
+   "short": "SRS 731.9",
+   "title": "Zonenplan",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.9",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.9",
+     "sha256": "41787c13045fe148536c71aa189a5d6c2ea82e2e3a2d6f54b3adaedd5c05229f"
+    }
+   ]
+  },
+  {
+   "slug": "731-11",
+   "short": "SRS 731.11",
+   "title": "Vollzugsreglement zur Bauordnung und zum Reklamereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.11",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.11",
+     "sha256": "c3c531fa0793122197070850f9895eac2b176fb7403558785ca30c3d3e5254ff"
+    }
+   ]
+  },
+  {
+   "slug": "731-12",
+   "short": "SRS 731.12",
+   "title": "Reglement über den Sachverständigenrat für Städtebau und Architektur",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.12",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.12",
+     "sha256": "b1406925f82b54082c4e4a9f50d4fc7f4a62a7b49030a1290a6a3fa969db05f7"
+    }
+   ]
+  },
+  {
+   "slug": "731-91",
+   "short": "SRS 731.91",
+   "title": "Vollzugsreglement zur Schutzverordnung Dreilinden / Notkersegg",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.91",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.91",
+     "sha256": "c52cc5bb016595478f7d266226f2a41531c9e08b3555c125cb382011fc4b3f8c"
+    }
+   ]
+  },
+  {
+   "slug": "731-112",
+   "short": "SRS 731.112",
+   "title": "Gebührentarif des Amtes für Baubewilligungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.112",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.112",
+     "sha256": "8cb8a0a6b6d75248c6e08c955c644e0c582c25a73ad2e3a134f1617254a41492"
+    }
+   ]
+  },
+  {
+   "slug": "733-1",
+   "short": "SRS 733.1",
+   "title": "Reglement zu den Massnahmen zur Förderung des Wohnungsbaues und der Wohnungserneuerung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.1",
+     "sha256": "fc39f6ac26881e19320e1f25dbfb5992c522528e5599f3edbf1f2fe1fe7ba3aa"
+    }
+   ]
+  },
+  {
+   "slug": "733-3",
+   "short": "SRS 733.3",
+   "title": "Reglement zur Förderung des gemeinnützigen Wohnungsbaus",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.3",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.3",
+     "sha256": "4a60aab560d4dcff26ecee88a5cc7a84160171a1bef39b49ec46ffd2a1cc1096"
+    }
+   ]
+  },
+  {
+   "slug": "733-5",
+   "short": "SRS 733.5",
+   "title": "Reglement zur Volksinitiative zur Erhaltung preisgünstiger Wohnungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.5",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.5",
+     "sha256": "145eb01cff82a12e73f2c2bf5b32402063be32c5f2f0162a5d26315bef055eca"
+    }
+   ]
+  },
+  {
+   "slug": "733-6",
+   "short": "SRS 733.6",
+   "title": "Reglement über die Mietzinsverbilligung in der Siedlung Remishueb",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.6",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.6",
+     "sha256": "c6275838a7eee44a7eca77896b620c10cb5a2e7113461452375ce38895e455b9"
+    }
+   ]
+  },
+  {
+   "slug": "742-2",
+   "short": "SRS 742.2",
+   "title": "Reglement über die Benennung von Verkehrsanlagen und die Gebäudeadressierung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/742.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/742.2",
+     "sha256": "6960adf31b95fc97f4a7b58acb9760353306db6f17de2b1a6f93610214476b06"
+    }
+   ]
+  },
+  {
+   "slug": "751-1",
+   "short": "SRS 751.1",
+   "title": "Immissionsschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.1",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.1",
+     "sha256": "cf9b31c0fc0b04551f0483a75540c018e7a78ff228524f0cd67996da0a863cfd"
+    }
+   ]
+  },
+  {
+   "slug": "751-2",
+   "short": "SRS 751.2",
+   "title": "Reglement für ein gesundes Stadtklima",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.2",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.2",
+     "sha256": "d07fd550cf0fe0f0f34e6b218fe0e637cf858d30b66d4074a0622eb678ba1eb8"
+    }
+   ]
+  },
+  {
+   "slug": "751-11",
+   "short": "SRS 751.11",
+   "title": "Vollzugsreglement zum Immissionsschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.11",
+     "sha256": "bc6f291c44d577f93e0d1425a0a7090be42b31263e13e69826ff76d36b5ea92d"
+    }
+   ]
+  },
+  {
+   "slug": "751-15",
+   "short": "SRS 751.15",
+   "title": "Gebührentarif für die Feuerungskontrolle",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.15",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.15",
+     "sha256": "d5eddf4394b1c2251d18e4bffec1f3b3610870cf70ee6d3ecf9ea0c9d1f86d82"
+    }
+   ]
+  },
+  {
+   "slug": "811-2",
+   "short": "SRS 811.2",
+   "title": "Reglement über die Finanzkontrolle",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/811.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/811.2",
+     "sha256": "5d0c3d6553c6c64bcc3799b3ed72b601da1d0ef5fda4604619b9b476de0e150d"
+    }
+   ]
+  },
+  {
+   "slug": "811-5",
+   "short": "SRS 811.5",
+   "title": "Reglement über die Reserve Werterhalt Finanzvermögen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/811.5",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/811.5",
+     "sha256": "96b3f063f1a9823748acef3acf1b8ee89f10615391c0cf6add1dea40b7a949bf"
+    }
+   ]
+  },
+  {
+   "slug": "913-1",
+   "short": "SRS 913.1",
+   "title": "Reglement über die Kosten der Nachführung der amtlichen Vermessung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/913.1",
+   "versions": [
+    {
+     "from": "1996-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/913.1",
+     "sha256": "71fdcd502862ad08750e1ec580027501b67bec9e158abbd5d7d1bee7035bbc34"
+    }
+   ]
+  },
+  {
+   "slug": "920-2",
+   "short": "SRS 920.2",
+   "title": "Reglement über die Zuständigkeit bei der Erhebung von Ordnungsbussen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/920.2",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/920.2",
+     "sha256": "bfb72f1f2a1fbcf54f1e757221a0b3c5dacb8baa689e4ea79303e8b2af4a2181"
+    }
+   ]
+  },
+  {
+   "slug": "930-2",
+   "short": "SRS 930.2",
+   "title": "Reglement über den Weiterzug von Verfügungen und Entscheiden unterer Instanzen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/930.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/930.2",
+     "sha256": "67f1a49d13fd099a50306bf62d5a783bf5a98d89b5a104e12467a14e77168398"
+    }
+   ]
+  },
+  {
+   "slug": "414-1-2",
+   "short": "SRS 414.1",
+   "title": "Feuerschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.1/versions/370",
+     "sha256": "80991672d58de883d0ef03be521cee0b17cfc2e4f34be55966558f0c3ee12ec3"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.1/versions/575",
+     "sha256": "fdd01e4546aa05f0b35fbcc830e59894a02b6eec7edee3743a1348e73ddbc9a1"
+    },
+    {
+     "from": "2023-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.1",
+     "sha256": "53ad85f86cc4a5316542f90814b8fc4576d3aae5f826cb8133e8df759f4238e0"
+    }
+   ]
+  },
+  {
+   "slug": "414-3-2",
+   "short": "SRS 414.3",
+   "title": "Reglement über die Organisation von Feuerwehr und Zivilschutz St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.3",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 31,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.3/versions/193",
+     "sha256": "8d0222947fc56ac088caa183df1c1063b852f18323f872a86830cf1ab47614a1"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 31,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.3/versions/292",
+     "sha256": "129b60e543c7365c1455d5530709a3eb144d4dacd93e2965352efc0e9b0b521e"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.3/versions/577",
+     "sha256": "dc23790273dcdd2abf71787abbda85a26688eebb4d8cec218d0611ad8a0830ef"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.3",
+     "sha256": "0a8227ed7a12fc23426f70cbf689b8c973a14b3841c4fea34230c35ca21bf7b3"
+    }
+   ]
+  },
+  {
+   "slug": "414-41-2",
+   "short": "SRS 414.41",
+   "title": "Gebührentarif für Feuerwehr und Zivilschutz",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/414.41",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.41/versions/371",
+     "sha256": "f66fe00c80486847d006d01780e618598cde5a35e2a8aff0febf44cc73390a04"
+    },
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/414.41",
+     "sha256": "0084cf0c47c125fed8527d8af2d1528616d0616e50f9f0513d970c27d1500ddf"
+    }
+   ]
+  },
+  {
+   "slug": "415-1-2",
+   "short": "SRS 415.1",
+   "title": "Friedhofreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.1",
+     "sha256": "74e19422b9f829f9399aea171e22724e079e794f8c8635f9ef6abc74fae32400"
+    }
+   ]
+  },
+  {
+   "slug": "415-11-2",
+   "short": "SRS 415.11",
+   "title": "Reglement über das Bestattungs- und Friedhofwesen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 50,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.11",
+     "sha256": "0647e6a7372ab1dd505225b5da73f49a80d0ab249dceac3f6d42332a65e6d2f7"
+    }
+   ]
+  },
+  {
+   "slug": "415-111-2",
+   "short": "SRS 415.111",
+   "title": "Gebührentarif für das Bestattungs- und Friedhofwesen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/415.111",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.111/versions/582",
+     "sha256": "56893871c599a8a77a290c316e38ae02c19fb39c3c426905f01137b3f7061aa7"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/415.111",
+     "sha256": "364a3097b5f91c796ac663a67b3fecdca962f8aa0a3b94ab6f581ef5e505faeb"
+    }
+   ]
+  },
+  {
+   "slug": "416-3-2",
+   "short": "SRS 416.3",
+   "title": "Gebührentarif für Dienstleistungen der Bevölkerungsdienste",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/416.3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "to": "2019-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/416.3/versions/245",
+     "sha256": "4d5745a84b2c0bacec7f2988363081ce617da8f07eec44bf9fa223c0a732273f"
+    },
+    {
+     "from": "2019-06-01",
+     "to": "2024-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/416.3/versions/259",
+     "sha256": "e1c41e30c913f9aed507cc3c9365f03f4d0e6527071e3699218b274e69643f2f"
+    },
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/416.3",
+     "sha256": "42737753c86ba620be95fc2e0ee3d2b2bc3954fb2dc73862272f6ffe2ce271b2"
+    }
+   ]
+  },
+  {
+   "slug": "511-1-swr",
+   "short": "SWR",
+   "title": "Stadtwerkereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "to": "2019-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 54,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1/versions/143",
+     "sha256": "0ee01198417b69888ba25f050d48c652757d935c5ebfc6fe2c17bf24fe6dbee4"
+    },
+    {
+     "from": "2019-09-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 55,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1/versions/267",
+     "sha256": "453302af9c061980cdaa0e01e6fcfeb91c5a19fd4756779ba283e9e46d081f2c"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 55,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1/versions/583",
+     "sha256": "93229b05cf0e0ab2601a4e670a04220b015cda03f1ecd56e972cd4ca528ee2a8"
+    },
+    {
+     "from": "2022-06-01",
+     "to": "2025-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 55,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1/versions/669",
+     "sha256": "e0b4befe83f358aa34eae3fdbc1645913c26eb7934a349c486d55ac6da97c8ab"
+    },
+    {
+     "from": "2025-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 55,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.1",
+     "sha256": "91617554790b248f340d2275c48405708c53c889d98a3f24fc9fa4b7a88c20a7"
+    }
+   ]
+  },
+  {
+   "slug": "511-2-enr",
+   "short": "EnR",
+   "title": "Energiereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.2",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2025-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.2/versions/585",
+     "sha256": "6d671789d963451acfa1fe6bf06e3682e287dcafcb8a722f2352bb937680473d"
+    },
+    {
+     "from": "2025-03-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.2",
+     "sha256": "f5c7a0f2a867367631e3bba35e7a1bdb7c910c35197713aa95d04d544b46d659"
+    }
+   ]
+  },
+  {
+   "slug": "511-11-swo",
+   "short": "SWO",
+   "title": "Organisationsreglement der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": "2019-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.11/versions/25",
+     "sha256": "b4fae2973bbd086df27dc8478dcb399e99b76a874151cd7bd8f704187fdb245c"
+    },
+    {
+     "from": "2019-04-01",
+     "to": "2023-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.11/versions/584",
+     "sha256": "c6eb71792be7112f4aaee1a86a15a415ed9daec1a70f610ae0162db3222e5a48"
+    },
+    {
+     "from": "2023-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.11",
+     "sha256": "ed61cd6d7f5d435f2cb9eb4ab98be4e232d44a0c379a05ff4be0e4bef5213ef5"
+    }
+   ]
+  },
+  {
+   "slug": "511-12-swv",
+   "short": "SWV",
+   "title": "Versorgungsreglement der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.12",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "to": "2019-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12/versions/120",
+     "sha256": "4c1f745da5fbcb92b710581ebec62554cdca75c80cd4f6defcce81ea676d8e44"
+    },
+    {
+     "from": "2019-10-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12/versions/273",
+     "sha256": "cd87c6a29c2e5750e85a6dd7318d755aff259bc77b05e29d73579929ecfe1dce"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2021-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12/versions/462",
+     "sha256": "33f914abc6af2775e8bd07ae19a85f279a6e5137a16162cb8514634279a5dc27"
+    },
+    {
+     "from": "2021-11-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12/versions/648",
+     "sha256": "dd133af40b173b568fd82da86880239bf9e353cc228ef6caa6a31a4b2310995a"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 48,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12/versions/650",
+     "sha256": "06df3e96b213c761ae4f1ac9dafc34da9e9f4553f36fb250ec2a0c665184ec34"
+    },
+    {
+     "from": "2022-06-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 49,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.12",
+     "sha256": "aaede67d5ef351e868dfc5f33c56ab32a673a843b79a474996781a9e041dd27a"
+    }
+   ]
+  },
+  {
+   "slug": "511-21-enfr",
+   "short": "EnFR",
+   "title": "Energiefondsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/511.21",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 57,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21/versions/122",
+     "sha256": "312b1f9a9c6921ca5fe9d2298b040f7b35796eb1a1661e9177dcc3e75cbe3be5"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 57,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21/versions/434",
+     "sha256": "d0ebee82a47148e253ec3c6b68ed87993eba4eb3cc9e3007115f88f616ad2d39"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2022-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 59,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21/versions/587",
+     "sha256": "ebffe00fd2090ab14a3f5e76b880d95a072bfdda4817577f6dab083262494d4e"
+    },
+    {
+     "from": "2022-07-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 60,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21/versions/676",
+     "sha256": "09abd24344681c9ec99f48828b3b3fde4620913f605f379941f84098df7d1ae1"
+    },
+    {
+     "from": "2025-01-01",
+     "to": "2025-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 61,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21/versions/831",
+     "sha256": "c04bba0b17b59083a74ec8da37a620f13eeb5a28bb1d6754c2979903455599f1"
+    },
+    {
+     "from": "2025-03-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 64,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/511.21",
+     "sha256": "2756916d756ef54c469e5131236e3713057bb0a7ae5e918c0ed3829c1a4a7c4d"
+    }
+   ]
+  },
+  {
+   "slug": "512-1-swga",
+   "short": "SWGA",
+   "title": "Allgemeiner Gebührentarif der Stadtwerke",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.1/versions/588",
+     "sha256": "5d98eff144d68eb539acaf49f72d2634dacd2cbdea39d1ad7dffd81b6390932c"
+    },
+    {
+     "from": "2025-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.1/versions/837",
+     "sha256": "95a0fbc996589512bb67f49e853f075c864daa86ebd0fe509ebff90ba6973bbe"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.1",
+     "sha256": "f3d5e5f43fec545095973e3c3e44afaddc40bcbec67386875d5c570706dfadb5"
+    }
+   ]
+  },
+  {
+   "slug": "512-3-swge",
+   "short": "SWGE",
+   "title": "Gebührentarif der Elektrizitätsversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "to": "2019-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/124",
+     "sha256": "ee2d041dd061c32afd3eced6be2a0165dd9086f90fc6ed228b4594ce23d2d262"
+    },
+    {
+     "from": "2019-09-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/266",
+     "sha256": "6717346baa6e181a8f5b357804a0a6e7d7db2ac8db02adf3d913ebcbefbe4af1"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/271",
+     "sha256": "be1778e79c3f80a87311d2401d4f7f7f1f1f3ce6fa457906a9da9c14232a0138"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 21,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/463",
+     "sha256": "4110b290b2283d0826223392c6ea3ef289e580956071dd6830e0a37132a80694"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/685",
+     "sha256": "b2a0a31a97d9b1e786c4bc27b25c38a6046c689591ac0f5d5ce27ea5d96044f0"
+    },
+    {
+     "from": "2024-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/735",
+     "sha256": "d21954b4765efc1293505bdc2c7db52d9011187e768e37b424dff291ebf57302"
+    },
+    {
+     "from": "2025-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3/versions/830",
+     "sha256": "313c96bece4a6bbfbb401db8508b498210a1d809a3f69c80574b6c9efa5ee570"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.3",
+     "sha256": "0be004a686ca67443909ca64c42535468f71a8983e8b00b03ad7f0f3041c84a6"
+    }
+   ]
+  },
+  {
+   "slug": "512-5-swgw",
+   "short": "SWGW",
+   "title": "Gebührentarif der Wasserversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.5",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.5/versions/125",
+     "sha256": "705326f449af71034bd04fdc6fed073866edbd769b52e4532e7eba958f731593"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2022-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.5/versions/590",
+     "sha256": "d21d65f8ed965eb6a65ef64946e360bdf9fb3f6f1f4f0c759ab1417039a72e7f"
+    },
+    {
+     "from": "2022-03-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.5/versions/657",
+     "sha256": "61fac8d43a32e5e36462acf1b74be0e75f88e92ec5541e80b4f2d3ce3e557d94"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.5",
+     "sha256": "e7e9988b6a00fa66fa7508a878c92f491f0dba29fa201c2235a2b65e8e7dd79c"
+    }
+   ]
+  },
+  {
+   "slug": "512-7-swgg",
+   "short": "SWGG",
+   "title": "Gebührentarif der Gasversorgung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.7",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "to": "2019-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/95",
+     "sha256": "47055862dca997e2b9b405cb071dfd3572271945991b1d4a95efa886c7553658"
+    },
+    {
+     "from": "2019-10-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/272",
+     "sha256": "68325e58125e1ee1e34d35fbe6117be034515bca9c529442fdd71f41c5d5d763"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2021-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/592",
+     "sha256": "6a4814546e5d0b4a2643e6effcd05cd71d668ecf0f65ddb0b4a510505c472d87"
+    },
+    {
+     "from": "2021-11-01",
+     "to": "2022-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/649",
+     "sha256": "fd1c783d31c7907980e4e7247a1e379c632257d80f3333cffa29c18f51c908c9"
+    },
+    {
+     "from": "2022-03-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/654",
+     "sha256": "0e1d35b32c63b94c329663834b95b98b3712b993f9c63dc6a690891319d9c102"
+    },
+    {
+     "from": "2022-06-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/670",
+     "sha256": "0606920c7bb6b10b018b340a61ec29d09ab7142ea663060f178b0b10ce716fd6"
+    },
+    {
+     "from": "2024-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7/versions/769",
+     "sha256": "24c4f8da50dd73e99b6b373d4fa29ca16c46f2881fcce456aa155198643b4544"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 11,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.7",
+     "sha256": "57b942759923db6609b2c3c3ae8b13be2c22c4e0a7ebf4f4e1299baf965c0caa"
+    }
+   ]
+  },
+  {
+   "slug": "512-9-swgf",
+   "short": "SWGF",
+   "title": "Gebührentarif der Wärmeversorgung für Fernwärme und Nahwärmeverbunde",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.9",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.9/versions/593",
+     "sha256": "cc9313b46ee2b4a4cf91ff109ab39c3eea6b85c89eac8f38e90dee4f6b6f6056"
+    },
+    {
+     "from": "2022-06-01",
+     "to": "2024-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.9/versions/667",
+     "sha256": "b4952478676f26e50c2dbbf7e25392e5ff8bcffc236a3fe444138f63da10588b"
+    },
+    {
+     "from": "2024-06-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.9/versions/804",
+     "sha256": "b85f2845af60d27fa899bdd71149a9bdd23abc9af1b766de4782c87b71cab66b"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.9",
+     "sha256": "0a91e16efa5a37780c48198bfc90a273d0920589c065e7cc0f559d2e95c77b9d"
+    }
+   ]
+  },
+  {
+   "slug": "512-12-swgt",
+   "short": "SWGT",
+   "title": "Gebührentarif des Glasfasernetzes",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.12",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.12",
+     "sha256": "fcda5fd2176e976b563b159c095e9e130b490727a63ad878c88beffd41aa0cae"
+    }
+   ]
+  },
+  {
+   "slug": "512-51-fwr",
+   "short": "FWR",
+   "title": "Reglement über den Fonds Wasser-Rappen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/512.51",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "to": "2022-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.51/versions/591",
+     "sha256": "d8dc09674ff90b1a322e61fb05c2d278a56807dee2f594dbc0b47b1179acae72"
+    },
+    {
+     "from": "2022-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/512.51",
+     "sha256": "87b679dc7d754d2de998e08fd418f421ae927e8da48aa745138513b6bdedd10e"
+    }
+   ]
+  },
+  {
+   "slug": "521-3-2",
+   "short": "SRS 521.3",
+   "title": "Reglement über die Verkehrsbetriebe St.Gallen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/521.3",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/521.3",
+     "sha256": "46ee7f53d626c9c97e953f99566d2438b5614aebaa7ea22364453e72965202a6"
+    }
+   ]
+  },
+  {
+   "slug": "521-32-2",
+   "short": "SRS 521.32",
+   "title": "Verbundtarif der Verkehrsbetriebe",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/521.32",
+   "versions": [
+    {
+     "from": "2014-12-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/521.32",
+     "sha256": "c99cecab8156e31af8bbca8affb7be7f748c014a0baed8bc5f244dc190e32645"
+    }
+   ]
+  },
+  {
+   "slug": "531-3-2",
+   "short": "SRS 531.3",
+   "title": "Reglement über die nicht gewerbsmässigen Schlachtungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/531.3",
+   "versions": [
+    {
+     "from": "1992-12-31",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/531.3",
+     "sha256": "205ad386b29cf92b0f31b31ac42bffcfe11984b750e585a95565a07654c80736"
+    }
+   ]
+  },
+  {
+   "slug": "541-1-abfr",
+   "short": "AbfR",
+   "title": "Abfallreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "to": "2020-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.1/versions/102",
+     "sha256": "6d8a778306b6efd58a9584cbe072b95ee0f7724e97a8033e0667c5061bc72047"
+    },
+    {
+     "from": "2020-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 26,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.1",
+     "sha256": "3fc54e1ec7595e2e3efb9934089afe40dede6cc00b351531a4c34f36b23c7cca"
+    }
+   ]
+  },
+  {
+   "slug": "541-11-abfv",
+   "short": "AbfV",
+   "title": "Vollzugsreglement zum Abfallreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.11",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "to": "2020-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.11/versions/207",
+     "sha256": "0225743ae133f6afb854bce513aaa1794ab6548915d95ce404b2799981de3f4a"
+    },
+    {
+     "from": "2020-02-01",
+     "to": "2024-05-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.11/versions/598",
+     "sha256": "d0e9743db809e91e9c2cb9f8ea32765096f1f66797b3e06a2c4d2a28718a3e7b"
+    },
+    {
+     "from": "2024-06-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.11/versions/802",
+     "sha256": "762138fc81ebca61e78609f1361e37a3779039e5f7060fff51e46d73daa69166"
+    },
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.11",
+     "sha256": "9498b3c1ceed53b68e6cc2574b5614d50e6c025a383c3c5576108db18c3ceeab"
+    }
+   ]
+  },
+  {
+   "slug": "541-111-2",
+   "short": "SRS 541.111",
+   "title": "Gebührentarif für die Entsorgung von Siedlungsabfällen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.111",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.111/versions/70",
+     "sha256": "bb47bb1962a855dfd497d2736876a236a39bc9050cb21d66e0a40c323220283b"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2020-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.111/versions/282",
+     "sha256": "b40db3b0536233f82adf4e68d465c585e82f76d3586e7960cc2decf6b184c180"
+    },
+    {
+     "from": "2020-02-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.111/versions/599",
+     "sha256": "8c00eedbe328668fb18956c5c625bc2810b58a28e96f04e8d0af39b9aa4297c2"
+    },
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.111",
+     "sha256": "85f9fdb98148d09352e190d0269fa768346cee224a2c6b0ef4163f23c3e2e108"
+    }
+   ]
+  },
+  {
+   "slug": "541-112-khkt",
+   "short": "KHKT",
+   "title": "Gebührentarif für das Kehrichtheizkraftwerk",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/541.112",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": "2020-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112/versions/297",
+     "sha256": "58c5f344fbe842f37f4d35a279796f2d464907b31ee1ac20c9d39e6ed4cae26f"
+    },
+    {
+     "from": "2020-02-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112/versions/307",
+     "sha256": "ba32fa9ac1c29e1d77a5c9844e794d5deb4a23f3b3d74cbe94ceb9f9d5a598a9"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112/versions/600",
+     "sha256": "b0e1441054bc8f6f287502ccc198f284cc987c17ccd637ffae271e691ce4c360"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2024-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112/versions/705",
+     "sha256": "582d6666e67674061538c8a055bd2d3d5901becc45c610aa08c4840f392ec3cb"
+    },
+    {
+     "from": "2024-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/541.112",
+     "sha256": "f377614aab54d23dce837aa06625e4e3ef1724916548504eca674c96efcdd17b"
+    }
+   ]
+  },
+  {
+   "slug": "542-1-2",
+   "short": "SRS 542.1",
+   "title": "Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.1",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.1",
+     "sha256": "3a5bded282735725196887a072e4edc58002cb337d0bd83b2d719715bddb991d"
+    }
+   ]
+  },
+  {
+   "slug": "542-3-dt",
+   "short": "DT",
+   "title": "Gebührentarif für die Deponie",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.3",
+   "versions": [
+    {
+     "from": "2017-12-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.3/versions/603",
+     "sha256": "c546e056edd7f9d3261a955a6dec4867af9af84f899a8d85268a4c404311d3e5"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.3",
+     "sha256": "e21026c8bed472c4b9173c21bfea2444bd7d7e6b61541f339a251e6f1511d1e9"
+    }
+   ]
+  },
+  {
+   "slug": "542-11-2",
+   "short": "SRS 542.11",
+   "title": "Vollzugsreglement zum Reglement über den Fonds für ökologische Ausgleichsmassnahmen der Deponie Tüfentobel",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/542.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": "2026-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.11/versions/602",
+     "sha256": "0b942b6bd5848f606899ca82ee07b0619f94fec5e51874d2efd0e015ec844026"
+    },
+    {
+     "from": "2026-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/542.11",
+     "sha256": "8b2242b558b2a374ce3b93e2f4e26d77cfa9915e93f248f6fd10c54ae858b7dd"
+    }
+   ]
+  },
+  {
+   "slug": "543-1-2",
+   "short": "SRS 543.1",
+   "title": "Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.1",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.1/versions/604",
+     "sha256": "b3eff1c22be6ed2ef92d6728deb04f84f43f6ab84845ee2ee23d93de18ea502c"
+    },
+    {
+     "from": "2022-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 40,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.1",
+     "sha256": "3bb14b181bd409b04a215e7bb8f75670a31fa95ab379f75326c7404f02744aca"
+    }
+   ]
+  },
+  {
+   "slug": "543-11-2",
+   "short": "SRS 543.11",
+   "title": "Vollzugsreglement zum Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.11",
+     "sha256": "c885ff888e58f6b8a96192190e3faaf491788fe6aed62d86495e969bc0aeb556"
+    }
+   ]
+  },
+  {
+   "slug": "543-12-fog",
+   "short": "FÖG",
+   "title": "Reglement über den Fonds zur Förderung von ökologischen Massnahmen zum Gewässerschutz (Schwammstadtfonds)",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.12",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.12",
+     "sha256": "a9f88005d031adf7c525a75ff96b31e07b0b85307ebc6a1881c0ea6bb1104c4b"
+    }
+   ]
+  },
+  {
+   "slug": "543-111-awgt",
+   "short": "AWGT",
+   "title": "Gebührentarif zum Abwasserreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/543.111",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "to": "2020-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.111/versions/94",
+     "sha256": "ba3882357eb5334eed2711d71cbcf4afec89a96c57cc299d0cef8bee9d1b3983"
+    },
+    {
+     "from": "2020-07-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.111/versions/606",
+     "sha256": "4f8bc661608e923d60edcb27c70b6b8b63ea70f70c77aef955e287e921c33b6c"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/543.111",
+     "sha256": "5afca6b4eaf5f5db1ba3537c15f78189f3f254652fdb7a6a9863b98b20c5f191"
+    }
+   ]
+  },
+  {
+   "slug": "621-1-2",
+   "short": "SRS 621.1",
+   "title": "Reglement über Ruhetag und Ladenöffnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/621.1",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/621.1",
+     "sha256": "f790442d307e1ff99de17643c493fb24ee58a3b7cc9ea250f0b9087682206a2f"
+    }
+   ]
+  },
+  {
+   "slug": "621-11-2",
+   "short": "SRS 621.11",
+   "title": "Vollzugsreglement zum Reglement über Ruhetag und Ladenöffnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/621.11",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/621.11",
+     "sha256": "f88c9dae49aa545377eefbec74980a80f17bdd3a7b1860baafdd4d8c4e630670"
+    }
+   ]
+  },
+  {
+   "slug": "622-1-2",
+   "short": "SRS 622.1",
+   "title": "Gastwirtschaftsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/622.1",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "to": "2025-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/622.1/versions/609",
+     "sha256": "a13b45032e07eafb202fcd594cf9de6b5ba30b62641007029eb3db1eb4411550"
+    },
+    {
+     "from": "2025-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/622.1",
+     "sha256": "8d1b20bc2479b45d1964691021fd96a8eb0a2f987a0d03c322f300891594326b"
+    }
+   ]
+  },
+  {
+   "slug": "623-1-2",
+   "short": "SRS 623.1",
+   "title": "Marktreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/623.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/623.1",
+     "sha256": "2f8c1a3899beeeb107c5f450f4acc78bda67138ee029d05fb502f62ed1baa6b9"
+    }
+   ]
+  },
+  {
+   "slug": "623-11-2",
+   "short": "SRS 623.11",
+   "title": "Markttarif",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/623.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/623.11",
+     "sha256": "1f57cf6b76a06124fed9d7cb7892052f8de77b35a088864592ac9c9f736706ef"
+    }
+   ]
+  },
+  {
+   "slug": "624-1-2",
+   "short": "SRS 624.1",
+   "title": "Gasttaxenreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/624.1",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "to": "2026-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/624.1/versions/612",
+     "sha256": "8a6df6004a93f3bc4210c49fb9ecee3fbc1b74158d4bde63773a945d6df43783"
+    },
+    {
+     "from": "2026-08-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/624.1",
+     "sha256": "712cc15517c5372cf8e2704b8f735c47be84adfcb493f77af68bfefd164a5c78"
+    }
+   ]
+  },
+  {
+   "slug": "624-11-2",
+   "short": "SRS 624.11",
+   "title": "Vollzugsreglement zum Gasttaxenreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/624.11",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/624.11",
+     "sha256": "9f5ed911fbc89f0c75f48262b638e17dae2415ce2904ecaabe9b017cc2e45e76"
+    }
+   ]
+  },
+  {
+   "slug": "711-3-2",
+   "short": "SRS 711.3",
+   "title": "Reglement für eine nachhaltige Verkehrsentwicklung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.3",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "to": "2022-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.3/versions/133",
+     "sha256": "23533a951e73b40fd1a780775c251a094eee29a5b44b358351d3935fbb3ed9bb"
+    },
+    {
+     "from": "2022-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.3",
+     "sha256": "626806cfd41ecbd47e8edb700c47391a3b58abfa9e280f42983b888ac3bb7c48"
+    }
+   ]
+  },
+  {
+   "slug": "711-7-2",
+   "short": "SRS 711.7",
+   "title": "Reglement über Ausnahmebewilligungen im Strassenverkehr",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.7",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.7",
+     "sha256": "4a0bcdc8934c5d4a33497f0226bfde7110745e42439fe55715be293691b00670"
+    }
+   ]
+  },
+  {
+   "slug": "711-71-2",
+   "short": "SRS 711.71",
+   "title": "Gebührentarif über Ausnahmebewilligungen im Strassenverkehr",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/711.71",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": "2019-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.71/versions/213",
+     "sha256": "7ba3ebedba3ffd3a6c62ba6917edc766a586f7ab2f0d5def4440d46718157698"
+    },
+    {
+     "from": "2019-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/711.71",
+     "sha256": "7e4df012ef11f1ba8059131bae283a33a94158ab95ad852915c9765c4520f5c9"
+    }
+   ]
+  },
+  {
+   "slug": "712-1-plv",
+   "short": "PLV",
+   "title": "Reglement über das Parkieren auf Liegenschaften des Verwaltungsvermögens",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.1/versions/762",
+     "sha256": "8bb065f119360c6635f6341800fd922085bc6041c47685d064696b771c3d0447"
+    },
+    {
+     "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.1",
+     "sha256": "f3df47b8a800c08f978a2f752ff1330a11d469d3963bfe7343494b9cab7d1ad0"
+    }
+   ]
+  },
+  {
+   "slug": "712-2-parkierreglement",
+   "short": "Parkierreglement",
+   "title": "Reglement über das Parkieren auf öffentlichem Grund",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.2",
+   "versions": [
+    {
+     "from": "2013-10-01",
+     "to": "2024-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 17,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.2/versions/617",
+     "sha256": "4055f5f389ccca13cdbe6b96fad7e6d11a08cb3d1bf91f27dc4b28f2ee834555"
+    },
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.2",
+     "sha256": "d3936b799d06fd3e752a89f069256fe5102d95fd6df100546d0f7fc8c5b3d69c"
+    }
+   ]
+  },
+  {
+   "slug": "712-21-2",
+   "short": "SRS 712.21",
+   "title": "Vollzugsreglement zum Parkierreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.21",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.21/versions/560",
+     "sha256": "4b9902ff5a99382fdd559239bae29ce8f3b45110ef9d64cd1b3ec12d3b13ae9d"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2024-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.21/versions/645",
+     "sha256": "c0f1b3c66a0b382993c5a1f6549d6910dcf7216387af3f3557e84a1edfe6533d"
+    },
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.21",
+     "sha256": "e979e769e3a7d6ca72b2b0019c95aed49cd69352eda00fa63c4038349da31623"
+    }
+   ]
+  },
+  {
+   "slug": "712-22-2",
+   "short": "SRS 712.22",
+   "title": "Parkiergebührentarif",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/712.22",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.22/versions/561",
+     "sha256": "65e65887b44d8e175a950bbf65c77cd71b43f681f0c2619ea232d00ebaadf5ed"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2024-10-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.22/versions/646",
+     "sha256": "7f2383e306ce32b38ba2c545ea596a301c3d23b38c114df2f22639be1d5fcce3"
+    },
+    {
+     "from": "2024-11-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/712.22",
+     "sha256": "7aaede1d91a30a96c5ed27864a5c5a3770e94a827218f11f8c9d66b611f0ec97"
+    }
+   ]
+  },
+  {
+   "slug": "713-1-rpb",
+   "short": "RPB",
+   "title": "Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 25,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.1/versions/619",
+     "sha256": "e276c794b859b034ae31500f5c4e3a740e956fdf646e1a7042f6f2d466dccd9a"
+    },
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.1",
+     "sha256": "454c50ab434f7df2be75231b202465830e2de4505900d7b6b70df2b49de5ffbd"
+    }
+   ]
+  },
+  {
+   "slug": "713-11-vrpb",
+   "short": "VRPB",
+   "title": "Vollzugsreglement zum Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.11",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.11/versions/204",
+     "sha256": "396152fd9a0c630cf1da1ff9733f0b6afb1337ec8f7e6d30ab0a6a0b55952a34"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 22,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.11/versions/620",
+     "sha256": "2c93ca4b8c56df7d3e830917af7a78eac2033fa3e58b08399358f9589a3d218e"
+    },
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.11",
+     "sha256": "239f717347dd3bb271b5036abd1bdc145fb7e899ea97fbe8b93b4cf25afe2d4f"
+    }
+   ]
+  },
+  {
+   "slug": "713-112-2",
+   "short": "SRS 713.112",
+   "title": "Gebührentarif betreffend das Reglement über die Personenbeförderung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/713.112",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2025-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.112/versions/621",
+     "sha256": "2c75a404f6a51f7f75070b6d4a4dde7f884d3a9a21e992af0dc86043bd7c5c95"
+    },
+    {
+     "from": "2025-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/713.112",
+     "sha256": "8daf58a10d6f9cc8145cd48b5d3a3344009d3b2eb181117d380be65a04c735b8"
+    }
+   ]
+  },
+  {
+   "slug": "731-1-2",
+   "short": "SRS 731.1",
+   "title": "Bauordnung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 78,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.1",
+     "sha256": "60c5cc49fe1572e8f3424b2081ef7b4d2f971e6c2aea242565c180f3a4ee742b"
+    }
+   ]
+  },
+  {
+   "slug": "731-2-2",
+   "short": "SRS 731.2",
+   "title": "Reklamereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.2",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.2",
+     "sha256": "0eebf338a275b20a0f16769fcdf13d4561c171ec1c013850dbf8ce517a791875"
+    }
+   ]
+  },
+  {
+   "slug": "731-3-2",
+   "short": "SRS 731.3",
+   "title": "Reglement über die Finanzierung der Altstadt-, Ortsbild- und Denkmalpflege",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.3",
+   "versions": [
+    {
+     "from": "1980-02-12",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.3/versions/627",
+     "sha256": "79f966910ba5f691ea82c86c7449393369ff6735dac69c78d1c97f3f4b98e2b6"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.3/versions/684",
+     "sha256": "f7642647ce38172e8304f28bd1a28492934346aa738095de051eadca8d9e6cb2"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 19,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.3",
+     "sha256": "a83676af45cb0226a632abe43a81fdfdf56c9c6c5e6be4d01317e0a54309d162"
+    }
+   ]
+  },
+  {
+   "slug": "731-4-2",
+   "short": "SRS 731.4",
+   "title": "Planungsreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.4",
+   "versions": [
+    {
+     "from": "1993-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.4",
+     "sha256": "1fb09280bf5c93b1eeb1e155a505e6c189828661df0fed30efe094fd01f908b4"
+    }
+   ]
+  },
+  {
+   "slug": "731-11-2",
+   "short": "SRS 731.11",
+   "title": "Vollzugsreglement zur Bauordnung und zum Reklamereglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": "2024-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.11/versions/623",
+     "sha256": "a4cad1697c75933d8099272e8ba041ffcf15487b0479f0db0436e18a49869468"
+    },
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.11",
+     "sha256": "c3c531fa0793122197070850f9895eac2b176fb7403558785ca30c3d3e5254ff"
+    }
+   ]
+  },
+  {
+   "slug": "731-12-2",
+   "short": "SRS 731.12",
+   "title": "Reglement über den Sachverständigenrat für Städtebau und Architektur",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.12",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.12",
+     "sha256": "b1406925f82b54082c4e4a9f50d4fc7f4a62a7b49030a1290a6a3fa969db05f7"
+    }
+   ]
+  },
+  {
+   "slug": "731-91-2",
+   "short": "SRS 731.91",
+   "title": "Vollzugsreglement zur Schutzverordnung Dreilinden / Notkersegg",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.91",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.91",
+     "sha256": "c52cc5bb016595478f7d266226f2a41531c9e08b3555c125cb382011fc4b3f8c"
+    }
+   ]
+  },
+  {
+   "slug": "731-112-2",
+   "short": "SRS 731.112",
+   "title": "Gebührentarif des Amtes für Baubewilligungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/731.112",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2019-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.112/versions/170",
+     "sha256": "e35740476aa888394bb542d152e74d7ad17befaa0bfb1c509686db66e318dd1e"
+    },
+    {
+     "from": "2019-10-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.112/versions/382",
+     "sha256": "1b6123c9ed58a5be6bad1cf10d9bf66c776d7ca858bfb6de881c43c3808a8ef5"
+    },
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/731.112",
+     "sha256": "8cb8a0a6b6d75248c6e08c955c644e0c582c25a73ad2e3a134f1617254a41492"
+    }
+   ]
+  },
+  {
+   "slug": "733-1-2",
+   "short": "SRS 733.1",
+   "title": "Reglement zu den Massnahmen zur Förderung des Wohnungsbaues und der Wohnungserneuerung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.1",
+     "sha256": "fc39f6ac26881e19320e1f25dbfb5992c522528e5599f3edbf1f2fe1fe7ba3aa"
+    }
+   ]
+  },
+  {
+   "slug": "733-3-2",
+   "short": "SRS 733.3",
+   "title": "Reglement zur Förderung des gemeinnützigen Wohnungsbaus",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.3",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.3",
+     "sha256": "4a60aab560d4dcff26ecee88a5cc7a84160171a1bef39b49ec46ffd2a1cc1096"
+    }
+   ]
+  },
+  {
+   "slug": "733-5-2",
+   "short": "SRS 733.5",
+   "title": "Reglement zur Volksinitiative zur Erhaltung preisgünstiger Wohnungen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.5",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "to": "2024-04-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.5/versions/633",
+     "sha256": "62fd5c310c032833a7a11df6b72bb7fd85448a423f9b9b840b574077bedfd919"
+    },
+    {
+     "from": "2024-05-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.5",
+     "sha256": "145eb01cff82a12e73f2c2bf5b32402063be32c5f2f0162a5d26315bef055eca"
+    }
+   ]
+  },
+  {
+   "slug": "733-6-2",
+   "short": "SRS 733.6",
+   "title": "Reglement über die Mietzinsverbilligung in der Siedlung Remishueb",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/733.6",
+   "versions": [
+    {
+     "from": "2005-04-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/733.6",
+     "sha256": "c6275838a7eee44a7eca77896b620c10cb5a2e7113461452375ce38895e455b9"
+    }
+   ]
+  },
+  {
+   "slug": "742-2-2",
+   "short": "SRS 742.2",
+   "title": "Reglement über die Benennung von Verkehrsanlagen und die Gebäudeadressierung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/742.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/742.2",
+     "sha256": "6960adf31b95fc97f4a7b58acb9760353306db6f17de2b1a6f93610214476b06"
+    }
+   ]
+  },
+  {
+   "slug": "751-1-2",
+   "short": "SRS 751.1",
+   "title": "Immissionsschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.1",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "to": "2021-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 26,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.1/versions/152",
+     "sha256": "5ac98a7b9d7fe035bf9c3ac5031e5ecf79f2d95300c419eb92cc756894c39965"
+    },
+    {
+     "from": "2021-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 27,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.1",
+     "sha256": "cf9b31c0fc0b04551f0483a75540c018e7a78ff228524f0cd67996da0a863cfd"
+    }
+   ]
+  },
+  {
+   "slug": "751-2-2",
+   "short": "SRS 751.2",
+   "title": "Reglement für ein gesundes Stadtklima",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.2",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.2",
+     "sha256": "d07fd550cf0fe0f0f34e6b218fe0e637cf858d30b66d4074a0622eb678ba1eb8"
+    }
+   ]
+  },
+  {
+   "slug": "751-11-2",
+   "short": "SRS 751.11",
+   "title": "Vollzugsreglement zum Immissionsschutzreglement",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.11",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.11",
+     "sha256": "bc6f291c44d577f93e0d1425a0a7090be42b31263e13e69826ff76d36b5ea92d"
+    }
+   ]
+  },
+  {
+   "slug": "751-15-2",
+   "short": "SRS 751.15",
+   "title": "Gebührentarif für die Feuerungskontrolle",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/751.15",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.15/versions/155",
+     "sha256": "c167bc1b6f91c8a3d2a8783221f4bef6de7e7535333e1026cc54553766c64f12"
+    },
+    {
+     "from": "2020-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/751.15",
+     "sha256": "d5eddf4394b1c2251d18e4bffec1f3b3610870cf70ee6d3ecf9ea0c9d1f86d82"
+    }
+   ]
+  },
+  {
+   "slug": "811-2-2",
+   "short": "SRS 811.2",
+   "title": "Reglement über die Finanzkontrolle",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/811.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 24,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/811.2",
+     "sha256": "5d0c3d6553c6c64bcc3799b3ed72b601da1d0ef5fda4604619b9b476de0e150d"
+    }
+   ]
+  },
+  {
+   "slug": "811-5-2",
+   "short": "SRS 811.5",
+   "title": "Reglement über die Reserve Werterhalt Finanzvermögen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/811.5",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/811.5",
+     "sha256": "96b3f063f1a9823748acef3acf1b8ee89f10615391c0cf6add1dea40b7a949bf"
+    }
+   ]
+  },
+  {
+   "slug": "913-1-2",
+   "short": "SRS 913.1",
+   "title": "Reglement über die Kosten der Nachführung der amtlichen Vermessung",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/913.1",
+   "versions": [
+    {
+     "from": "1996-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 2,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/913.1",
+     "sha256": "71fdcd502862ad08750e1ec580027501b67bec9e158abbd5d7d1bee7035bbc34"
+    }
+   ]
+  },
+  {
+   "slug": "920-2-2",
+   "short": "SRS 920.2",
+   "title": "Reglement über die Zuständigkeit bei der Erhebung von Ordnungsbussen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/920.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "to": "2023-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/920.2/versions/643",
+     "sha256": "659dc61e001b2e87b0e67a4204650dac44ae8eefc05d7e8f5ea4131cc9b28c32"
+    },
+    {
+     "from": "2023-07-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/920.2",
+     "sha256": "bfb72f1f2a1fbcf54f1e757221a0b3c5dacb8baa689e4ea79303e8b2af4a2181"
+    }
+   ]
+  },
+  {
+   "slug": "930-2-2",
+   "short": "SRS 930.2",
+   "title": "Reglement über den Weiterzug von Verfügungen und Entscheiden unterer Instanzen",
+   "url": "https://st.gallen.tlex.ch/app/de/texts_of_law/930.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://st.gallen.tlex.ch/api/de/texts_of_law/930.2",
+     "sha256": "67f1a49d13fd099a50306bf62d5a783bf5a98d89b5a104e12467a14e77168398"
     }
    ]
   }
