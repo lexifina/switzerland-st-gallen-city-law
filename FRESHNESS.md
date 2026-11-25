@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### St Gallen: Systematische Sammlung (st.gallen.tlex.ch) · `switzerland/st-gallen/st-gallen/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-24 12:32 UTC**.
-- Vorschriften hier: 101; aktuell gegenüber der Quelle: 101; an der Quelle geändert seit der Fassung hier: 72; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 87 der 101 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:00 UTC**.
+- Vorschriften hier: 173; aktuell gegenüber der Quelle: 173; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
+- In diesem Lesen mit der Quelle verglichen: 42 der 173 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 0 (—); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### St Gallen: systematic collection (st.gallen.tlex.ch) · `switzerland/st-gallen/st-gallen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 12:32 UTC**.
-- Acts held here: 101; current at the source: 101; changed at the source since the version held here: 72; no longer at the source: 0.
-- Compared with the source in this read: 87 of the 101 acts held here; the others were not compared in this read (see the check's note).
+- The official source last read and every act held here checked against it: **2026-11-25 08:00 UTC**.
+- Acts held here: 173; current at the source: 173; changed at the source since the version held here: 0; no longer at the source: 0.
+- Compared with the source in this read: 42 of the 173 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
