@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für St Gallen: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-25 08:00 UTC, St Gallen: Systematische Sammlung (st.gallen.tlex.ch): 137 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
+**Letzte Prüfung:** 2026-11-26 06:54 UTC, St Gallen: Systematische Sammlung (st.gallen.tlex.ch): 108 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [St Gallen: Systematische Sammlung (st.gallen.tlex.ch)](https://st.gallen.tlex.ch/) | `<act>/` | täglich | 2026-11-25 08:00 UTC | keine Änderung | beobachtet |
+| [St Gallen: Systematische Sammlung (st.gallen.tlex.ch)](https://st.gallen.tlex.ch/) | `<act>/` | täglich | 2026-11-26 06:54 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 06:52](checks/2026-11.md#ch-lexwork-st-gallen-city-20261126t065213z) | lexwork-st-gallen-city | 108 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-25 07:57](checks/2026-11.md#ch-lexwork-st-gallen-city-20261125t075753z) | lexwork-st-gallen-city | 137 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-24 12:22](checks/2026-11.md#ch-lexwork-st-gallen-city-20261124t122250z) | lexwork-st-gallen-city | 305 | 72 | 0 | 0 | 0 (0) | Änderungen gefunden `verify-differ` | [245](https://github.com/lexifina/switzerland-st-gallen-city-law/compare/f6425b269cd5...0c8a1164b455) |
 
