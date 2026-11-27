@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:20:23Z",
+ "generated": "2026-11-27T07:14:11Z",
  "latest": {
   "lexwork-st-gallen-city|switzerland/st-gallen/st-gallen/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 45,
+    "checked": 48,
     "current": 173,
     "gone": 0,
     "held": 173,
@@ -23,26 +23,26 @@
     "repo": 173,
     "source_in_scope": 173
    },
-   "check_id": "ch-lexwork-st-gallen-city-20261126T065213Z",
+   "check_id": "ch-lexwork-st-gallen-city-20261127T065022Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/st-gallen/acts",
    "error": null,
-   "finished": "2026-11-26T06:54:11Z",
+   "finished": "2026-11-27T06:52:00Z",
    "flags": [
     {
-     "detail": "23 of 97 texts differ from the source",
+     "detail": "25 of 97 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
    "gap": 0,
-   "note": "st.gallen.tlex.ch: index of 175 acts (175 in force); held 173; 0 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 45 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "st.gallen.tlex.ch: index of 175 acts (175 in force); held 173; 0 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 48 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 108,
+   "requests": 90,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,13 +52,13 @@
    },
    "snapshot": "175 entries, 175 in force (st.gallen.tlex.ch)",
    "source": "lexwork-st-gallen-city",
-   "started": "2026-11-26T06:52:13Z",
+   "started": "2026-11-27T06:50:22Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 20,
+    "nothing_new": 23,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -67,26 +67,25 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "251.5 (251-5): 2018-01-01",
+     "321.9 (321-9): 1998-07-01",
      "211.13 (211-13-zure-schule): 2017-08-01",
      "211.33 (211-33): 2010-01-01",
      "211.511 (211-511): 2021-08-01",
      "181.1 (181-1): 2018-01-01",
      "191.124 (191-124): 2018-01-01",
-     "192.3 (192-3): 2017-05-01",
-     "141.1 (141-1): 2007-07-01",
-     "414.41 (414-41-2): 2016-07-01"
+     "192.3 (192-3): 2017-05-01"
     ],
     "held": 173,
-    "method": "each act compared this check (45 of 173: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from st.gallen.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (48 of 173: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from st.gallen.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "47-q365-source-basis-annexes.json": 1,
-     "48-q365-source-basis-annexes.json": 3
+     "48-q365-source-basis-annexes.json": 2
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": false,
-    "swept": 45,
+    "swept": 48,
     "versions_checked": 97,
-    "versions_differ": 23
+    "versions_differ": 25
    }
   }
  },
